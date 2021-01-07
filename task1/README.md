@@ -26,3 +26,6 @@ Such features is not friendly for user interface, especially when the page conte
 <img src="img/3.png" width="100%">
 
 ### How to fix this issue?
+
+Solutions suggested with [React Router](https://reactrouter.com/web/guides/scroll-restoration)
+Code files [here](src)
