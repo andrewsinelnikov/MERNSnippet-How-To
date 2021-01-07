@@ -27,5 +27,7 @@ Such features is not friendly for user interface, especially when the page conte
 
 ### How to fix this issue?
 
-Solutions suggested with [React Router](https://reactrouter.com/web/guides/scroll-restoration)
-Code files [here](src)
+Solutions suggested with [React Router](https://reactrouter.com/web/guides/scroll-restoration) <br/>
+Code files [here](src) <br/>
+
+#### How it works?
