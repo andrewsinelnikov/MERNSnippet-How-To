@@ -17,6 +17,12 @@ It is likely that the new page will be in the same position as the previous one 
 
 <br/>
 
-<img src="img/2.png" width="100%">
+<img src="img/2.png" width="100%"><br/>
+
+Such features is not friendly for user interface, especially when the page content is very long. Most likely, the user wants to get to the top of the page, as shown in the illustration below
+
+<br/>
 
 <img src="img/3.png" width="100%">
+
+### How to fix this issue?
