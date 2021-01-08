@@ -73,3 +73,19 @@ useEffect(() => {
     window.scrollTo(0, 0);
 }, [pathname]);
 ```
+
+#### Step 5
+In order to know the current URL is used the `location` object. The _useLocation_ hook from [React Router](https://reactrouter.com/web/api/Hooks/uselocation) returns it
+
+```JavaScript
+import { useEffect } from 'react';
+import { useLocation } from "react-router-dom";
+```
+
+```JavaScriptconst 
+{ pathname } = useLocation();
+
+useEffect(() => {
+    // your code
+}, [pathname]);
+```
