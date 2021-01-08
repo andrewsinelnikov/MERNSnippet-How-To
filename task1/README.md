@@ -40,3 +40,18 @@ const ScrollToTop = () => {
 
 export default ScrollToTop
 ```
+#### Step 2
+Since after rendering you will need additional functionality - to get to the top of the page, then add [the Effect Hook](https://reactjs.org/docs/hooks-effect.html). It helps to perform side effects
+
+```JavaScript
+import { useEffect } from 'react';
+
+const ScrollToTop = () => {
+
+    useEffect(() => {
+        //your code
+    });
+}
+
+export default ScrollToTop
+```
