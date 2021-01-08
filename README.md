@@ -1,6 +1,6 @@
 # ReactSnippet: How To
 
------
+## solve common development issues
 
 -----
 
