@@ -79,6 +79,7 @@ In order to know the current URL is used the `location` object. The _useLocation
 ```JavaScript
 import { useEffect } from 'react';
 import { useLocation } from "react-router-dom";
+    // your code
 ```
 
 ```JavaScript
@@ -102,4 +103,36 @@ const ScrollToTop = () => {
 }
 
 export default ScrollToTop
+```
+#### Step 7
+The last thing we need to do - to implement `ScrollToTop` component into our `App.js` at the top, but below `<Router>`
+
+```JavaScript
+import React from 'react';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import ScrollToTop from './components/ScrollToTop';
+import Navbar from './components/Navbar';
+import Home from './pages';
+import Products from './pages/Products';
+import Contact from './pages/Contact';
+import Footer from './components/Footer';
+
+import './App.css';
+
+function App() {
+  return (
+    <Router>
+      <ScrollToTop />
+      <Navbar />
+      <Switch>
+        <Route path='/' exact component={Home} />
+        <Route path='/products' exact component={Products} />
+        <Route path='/contact' exact component={Contact} />
+      </Switch>
+      <Footer />
+    </Router>
+  );
+}
+
+export default App;
 ```
