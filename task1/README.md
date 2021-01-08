@@ -55,3 +55,11 @@ const ScrollToTop = () => {
 
 export default ScrollToTop
 ```
+#### Step 3
+Our current window is represented by a global variable `window`. It includes [scrollTo(x-coord, y-coord)](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo) function, that scrolls to a particular position in the document. Top coordinates is (0,0). And our `useEffect` will be as follows
+
+```JavaScript
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    });
+```
