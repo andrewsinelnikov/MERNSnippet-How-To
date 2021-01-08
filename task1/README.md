@@ -70,7 +70,7 @@ To invoke the effect only on navigating, and not after every render. Add a secon
 const pathname;
 
 useEffect(() => {
-    window.scrollTo(0, 0);
+    // your code
 }, [pathname]);
 ```
 
@@ -82,8 +82,8 @@ import { useEffect } from 'react';
 import { useLocation } from "react-router-dom";
 ```
 
-```JavaScriptconst 
-{ pathname } = useLocation();
+```JavaScript
+const { pathname } = useLocation();
 
 useEffect(() => {
     // your code
