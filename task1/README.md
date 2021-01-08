@@ -136,3 +136,6 @@ function App() {
 
 export default App;
 ```
+
+### How it works?
+See an [example](https://mdstore.netlify.app/)
