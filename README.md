@@ -2,7 +2,8 @@
 
 ## Solve Common Development Issues
 
-*New article every Thursday*
+New article every Thursday
+
 -----
 
 [Table of Contents](toc.md)
