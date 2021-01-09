@@ -12,3 +12,4 @@ Making a footer fixed at the bottom of the page prevents ugly broken design. Oth
 <img src="img/1.png" width="100%">
 <br/>
 
+How to get rid of this? By improving the style, you will get 👍 <br/>
