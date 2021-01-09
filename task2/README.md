@@ -69,3 +69,10 @@ body {
 ```
 It doesn't work for React project <br />
 If you look at `index.js`, you will see that all content is rendering in the element with `id="root"` (`index.html`). Therefore, for React project, you should style `#root`
+```CSS
+#root {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+```
