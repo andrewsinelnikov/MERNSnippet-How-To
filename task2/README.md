@@ -47,3 +47,13 @@ export default App
 Key points on this stage are 
 `className='content'` for your content and
 `className='footer'` for your footer
+
+#### Step 2
+Add a height in **App.css**
+
+```CSS
+html,
+body {
+  height: 100%;
+}
+```
