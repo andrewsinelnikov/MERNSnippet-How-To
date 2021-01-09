@@ -84,3 +84,11 @@ Fill the space for the content
   flex: 1 0 auto;
 }
 ```
+
+#### Step 5
+Specifies how much your footer will shrink relative to the content
+```CSS
+.footer {
+  flex: 0 0 auto;
+}
+```
