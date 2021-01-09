@@ -92,3 +92,5 @@ Specifies how much your footer will shrink relative to the content
   flex: 0 0 auto;
 }
 ```
+
+**You did it** 💯
