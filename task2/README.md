@@ -57,3 +57,14 @@ body {
   height: 100%;
 }
 ```
+
+#### Step 3
+Design flexible responsive layout structure. For what element?
+If you style just next 
+```CSS
+body {
+  display: flex;
+  flex-direction: column;
+}
+```
+It doesn't work for React project <br />
