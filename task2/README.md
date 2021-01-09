@@ -76,3 +76,11 @@ If you look at `index.js`, you will see that all content is rendering in the ele
   flex-direction: column;
 }
 ```
+
+#### Step 4
+Fill the space for the content
+```CSS
+.content {
+  flex: 1 0 auto;
+}
+```
