@@ -18,3 +18,9 @@ How to get rid of this? By improving the style, you will get 👍
 <br/>
 
 <img src="img/2.png" width="100%"><br/>
+
+### How to fix this issue?
+
+Solution is suggested with [flexbox](https://www.w3schools.com/css/css3_flexbox.asp) <br/>
+
+#### Step 1
