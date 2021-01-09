@@ -44,3 +44,6 @@ const App = () => {
 
 export default App
 ```
+Key points on this stage are 
+`className='content'` for your content and
+`className='footer'` for your footer
