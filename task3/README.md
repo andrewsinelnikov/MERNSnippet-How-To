@@ -25,3 +25,9 @@ To edit the code, download [Visual Studio Code](https://code.visualstudio.com/do
 Create your project and give it a name by running the command `npx create-react-app store` where `store` is the name (you can give the name as you need).
 It may take a few minutes
 <img src="img/2.png" width="100%"><br/>
+
+#### Step 4
+Navigate to your project
+<img src="img/3.png" width="100%"><br/>
+And install the dependencies needed for your project, for example, `react-router-dom` ( a tool that allows you to handle routes in a web app)
+<img src="img/4.png" width="100%"><br/>
