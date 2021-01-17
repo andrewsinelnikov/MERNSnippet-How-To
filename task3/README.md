@@ -20,3 +20,8 @@ We will use [Create React App](https://github.com/facebook/create-react-app). In
 
 #### Step 2
 To edit the code, download [Visual Studio Code](https://code.visualstudio.com/download). And you're ready to start 💯
+
+#### Step 3
+Create your project and give it a name by running the command `npx create-react-app store` where `store` is the name (you can give the name as you need).
+It may take a few minutes
+<img src="img/2.png" width="100%"><br/>
