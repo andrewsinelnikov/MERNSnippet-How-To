@@ -16,3 +16,4 @@ We will use [Create React App](https://github.com/facebook/create-react-app). In
 * Open **Command Prompt (Terminal)** (press `Windows+R` and type `cmd`)
 * Type and run `node -v`
 * Type and run `npm -v`
+<img src="img/1.png" width="100%"><br/>
