@@ -19,4 +19,4 @@ We will use [Create React App](https://github.com/facebook/create-react-app). In
 <img src="img/1.png" width="100%"><br/>
 
 #### Step 2
-To edit the code, download [Visual Studio Code](https://code.visualstudio.com/download)
+To edit the code, download [Visual Studio Code](https://code.visualstudio.com/download). And you're ready to start 💯
