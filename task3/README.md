@@ -31,3 +31,7 @@ Navigate to your project
 <img src="img/3.png" width="100%"><br/>
 And install the dependencies needed for your project, for example, `react-router-dom` ( a tool that allows you to handle routes in a web app)
 <img src="img/4.png" width="100%"><br/>
+
+#### Step 5
+Open your project in Visual Studio Code (we've installed on step 2) by running `code .`
+<img src="img/5.png" width="100%"><br/>
