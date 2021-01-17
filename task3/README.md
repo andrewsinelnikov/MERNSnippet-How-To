@@ -7,4 +7,5 @@
 ---
 
 ### Description
-Making
+Creating a React application. Basic structure. 
+It's not as difficult as it might seem. Just follow these steps 🚶‍♂️
