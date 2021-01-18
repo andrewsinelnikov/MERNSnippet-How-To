@@ -43,3 +43,8 @@ Now your project looks like in the browser
 <img src="img/7.png" width="100%"><br/>
 
 You're ready to code
+
+#### Step 6
+Clear out what you don't need from Create React App
+  1. Delete highlighted files in VSCode Explorer
+  <img src="img/8.png" width="100%"><br/>
