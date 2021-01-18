@@ -64,5 +64,5 @@ Clear out what you don't need from Create React App
   4. Edit **index.js**. Remove highlighted lines
   <img src="img/12.png" width="100%"><br/>
 
-  5. delete the following files <br/>
+  5. Delete the following files in **public** folder <br/>
   <img src="img/13.png" width="50%"><br/>
