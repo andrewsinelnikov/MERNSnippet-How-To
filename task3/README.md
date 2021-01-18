@@ -51,3 +51,14 @@ Clear out what you don't need from Create React App
   2. Edit **App.js** (delete old code and add new one) <br />
   <img src="img/9.png" width="50%"><br/>
   <img src="img/10.png" width="50%"><br/>
+  3. Edit **App.css**. Remove all previous code <br/>
+  <img src="img/11.png" width="50%"><br/>
+    And add your initial one
+    ```CSS
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    ```
+  
