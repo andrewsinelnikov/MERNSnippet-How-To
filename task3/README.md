@@ -8,7 +8,7 @@
 
 ### Description
 Creating a React application. Basic structure. 
-It's not as difficult as it might seem. Just follow these steps 🚶‍♂️
+It's not as difficult as it might seem. Just follow these steps 🏃‍♂️
 
 
 #### Step 1
@@ -39,5 +39,7 @@ Open your project in Visual Studio Code (we've installed on step 2) by running `
 Open Terminal in VSCode **(Terminal -> New Terminal** or **Ctrl+Shift+\`)** and start the development server there by running `npm start`
 <img src="img/6.png" width="100%"><br/>
 
-Now your project looks like
+Now your project looks like in the browser
 <img src="img/7.png" width="100%"><br/>
+
+You're ready to code
