@@ -35,3 +35,6 @@ And install the dependencies needed for your project, for example, `react-router
 #### Step 5
 Open your project in Visual Studio Code (we've installed on step 2) by running `code .`
 <img src="img/5.png" width="100%"><br/>
+
+Open Terminal in VSCode **(Terminal -> New Terminal)** or **Ctrl+Shift+\`** and start the development server there by running `npm start`
+<img src="img/6.png" width="100%"><br/>
