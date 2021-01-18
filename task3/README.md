@@ -69,3 +69,7 @@ Clear out what you don't need from Create React App
   
   6. Edit **index.html**. Remove lines and initial comments `<!-- comments -->`
   <img src="img/14.png" width="100%"><br/>
+  Change title of your project
+```HTML
+<title>Store</title>
+```
