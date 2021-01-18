@@ -46,7 +46,8 @@ You're ready to code
 
 #### Step 6
 Clear out what you don't need from Create React App
-  1. Delete highlighted files in VSCode Explorer
+  1. Delete highlighted files in VSCode Explorer <br />
   <img src="img/8.png" width="50%"><br/>
-  2. Edit **App.js** (delete old code and add new one)
+  2. Edit **App.js** (delete old code and add new one) <br />
   <img src="img/9.png" width="50%"><br/>
+  <img src="img/10.png" width="50%"><br/>
