@@ -74,3 +74,7 @@ Clear out what you don't need from Create React App
 <title>Store</title>
 ```
   <img src="img/15.png" width="100%"><br/>
+
+#### Step 7
+If you're going to deploy your project to Netlify then add [`_redirects`](https://docs.netlify.com/routing/redirects/) file to the publish directory for fixing an issue with [React Router on Netlify](https://sung.codes/blog/2018/12/18/page-not-found-on-netlify-with-react-router/)
+<img src="img/16.png" width="100%"><br/>
