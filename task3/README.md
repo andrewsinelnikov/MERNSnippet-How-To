@@ -36,7 +36,7 @@ And install the dependencies needed for your project, for example, `react-router
 Open your project in Visual Studio Code (we've installed on step 2) by running `code .`
 <img src="img/5.png" width="100%"><br/>
 
-Open Terminal in VSCode **(Terminal -> New Terminal** or **Ctrl+Shift+\`)** and start the development server there by running `npm start`
+Open Terminal in VS Code **(Terminal -> New Terminal** or **Ctrl+Shift+\`)** and start the development server there by running `npm start`
 <img src="img/6.png" width="100%"><br/>
 
 Now your project looks like in the browser
@@ -73,3 +73,4 @@ Clear out what you don't need from Create React App
 ```HTML
 <title>Store</title>
 ```
+  <img src="img/15.png" width="100%"><br/>
