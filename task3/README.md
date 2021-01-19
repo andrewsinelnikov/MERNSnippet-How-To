@@ -98,3 +98,5 @@ Create pages that you will use throughout the project
       <img src="img/22.png" width="50%"><br/>
       * Change the name of your component and type something to indentify this component <br />
       <img src="img/23.png" width="50%"><br/>
+      * In the same way add the rest of the components you need <br />
+      <img src="img/24.png" width="50%"><br/>
