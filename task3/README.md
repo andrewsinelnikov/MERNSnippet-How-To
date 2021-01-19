@@ -90,5 +90,7 @@ Create pages that you will use throughout the project
   2. Add **pages** folder for your pages <br />
   <img src="img/19.png" width="50%"><br/>
   3. Add components. If you're going to use **module.css** files for style then follow next structure
-      * Add folder for your conponent
+      * Add folder for your conponent <br />
       <img src="img/20.png" width="50%"><br/>
+      * Create files **index.js** for your component and **Name.module.css** (add name of your component instead of **Name**) for styling <br />
+      <img src="img/21.png" width="50%"><br/>
