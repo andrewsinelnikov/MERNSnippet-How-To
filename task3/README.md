@@ -82,3 +82,8 @@ If you're going to deploy your project to Netlify then add [`_redirects`](https:
 #### Step 8
 Add a folder for your images <br />
 <img src="img/17.png" width="50%"><br/>
+
+#### Step 9
+Create pages that you will use throughout the project
+  1. Add **ES7 React** snippets from **Extensions** tab (`Ctrl+Shift+X`)
+  <img src="img/18.png" width="100%"><br/>
