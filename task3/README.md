@@ -87,3 +87,5 @@ Add a folder for your images <br />
 Create pages that you will use throughout the project
   1. Add **ES7 React** snippets from **Extensions** tab (`Ctrl+Shift+X`)
   <img src="img/18.png" width="100%"><br/>
+  2. Add **pages** folder for your pages <br />
+  <img src="img/19.png" width="50%"><br/>
