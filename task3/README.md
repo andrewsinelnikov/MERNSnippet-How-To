@@ -106,3 +106,6 @@ Create pages that you will use throughout the project
 #### Step 10
 Navigation between App pages
   1. Install **[React Router Dom](https://reactrouter.com/web/guides/quick-start)** (see Step 4)
+  2. Import `BrowserRouter` into **index.js**
+  <img src="img/26.png" width="100%"><br/> 
+  
