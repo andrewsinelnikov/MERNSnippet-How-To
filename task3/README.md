@@ -108,4 +108,6 @@ Navigation between App pages
   1. Install **[React Router Dom](https://reactrouter.com/web/guides/quick-start)** (see Step 4)
   2. Import `BrowserRouter` into **index.js**
   <img src="img/26.png" width="100%"><br/> 
+  3. Add `Route` for each component in **App.js**
+  <img src="img/27.png" width="100%"><br/> 
   
