@@ -110,4 +110,5 @@ Navigation between App pages
   <img src="img/26.png" width="100%"><br/> 
   3. Add `Route` for each component in **App.js**
   <img src="img/27.png" width="100%"><br/> 
-  
+  4. Since each `Route` has `path='/'` it will render **Home** component for each page. If you want to avoid it then add parameter **exact**
+  <img src="img/28.png" width="100%"><br/> 
