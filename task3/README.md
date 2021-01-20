@@ -102,3 +102,7 @@ Create pages that you will use throughout the project
       <img src="img/24.png" width="100%"><br/>
   4. Import your pages into **App.js**
   <img src="img/25.png" width="100%"><br/>    
+
+#### Step 10
+Navigation between App pages
+  1. Install **[React Router Dom](https://reactrouter.com/web/guides/quick-start)** (see Step 4)
