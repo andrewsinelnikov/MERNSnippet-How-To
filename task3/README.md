@@ -114,3 +114,5 @@ Navigation between App pages
   <img src="img/28.png" width="100%"><br/> 
   5. To switch pages add `Switch`
   <img src="img/29.png" width="100%"><br/> 
+  6. To fix a situation where the address is entered in the Browser does not match any of the pages, create a component **Error**
+  <img src="img/30.png" width="100%"><br/> 
