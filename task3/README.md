@@ -93,12 +93,12 @@ Create pages that you will use throughout the project
       * Add folder for your conponent <br />
       <img src="img/20.png" width="50%"><br/>
       * Create files **index.js** for your component and **Name.module.css** (add name of your component instead of **Name**) for styling <br />
-      <img src="img/21.png" width="50%"><br/>
+      <img src="img/21.png" width="100%"><br/>
       * Type `rafce` in **index.js** (a quick way to create a component using the extension we installed) <br />
-      <img src="img/22.png" width="50%"><br/>
+      <img src="img/22.png" width="100%"><br/>
       * Change the name of your component and type something to indentify this component <br />
-      <img src="img/23.png" width="50%"><br/>
+      <img src="img/23.png" width="100%"><br/>
       * In the same way add the rest of the components you need <br />
-      <img src="img/24.png" width="50%"><br/>
+      <img src="img/24.png" width="100%"><br/>
   4. Import your pages into **App.js**
   <img src="img/25.png" width="100%"><br/>    
