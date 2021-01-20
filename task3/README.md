@@ -100,3 +100,5 @@ Create pages that you will use throughout the project
       <img src="img/23.png" width="50%"><br/>
       * In the same way add the rest of the components you need <br />
       <img src="img/24.png" width="50%"><br/>
+  4. Import your pages into **App.js**
+  <img src="img/25.png" width="100%"><br/>    
