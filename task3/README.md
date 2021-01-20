@@ -119,4 +119,7 @@ Navigation between App pages
   7. Add `Route` for **Error** component
   <img src="img/31.png" width="100%"><br/> 
   
+View your pages in the browser
+<img src="img/32.png" width="100%"><br/> 
+  
 ### Your boilerplate is ready for React development 🚀
