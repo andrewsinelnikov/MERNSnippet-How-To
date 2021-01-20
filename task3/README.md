@@ -116,3 +116,7 @@ Navigation between App pages
   <img src="img/29.png" width="100%"><br/> 
   6. To fix a situation where the address is entered in the Browser does not match any of the pages, create a component **Error**
   <img src="img/30.png" width="100%"><br/> 
+  7. Add `Route` for **Error** component
+  <img src="img/31.png" width="100%"><br/> 
+  
+### Your boilerplate is ready for React development 🚀
