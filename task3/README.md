@@ -125,3 +125,5 @@ View your pages in the browser
 ### Your boilerplate is ready for React development 🚀
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
