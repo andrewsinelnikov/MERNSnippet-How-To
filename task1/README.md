@@ -142,3 +142,5 @@ See an [example](https://mdstore.netlify.app/)
 
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
