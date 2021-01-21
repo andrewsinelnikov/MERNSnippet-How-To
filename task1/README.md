@@ -139,3 +139,6 @@ export default App;
 
 ### How it works?
 See an [example](https://mdstore.netlify.app/)
+
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
