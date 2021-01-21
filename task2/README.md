@@ -94,3 +94,5 @@ Specifies how much your footer will shrink relative to the content
 ```
 
 **You did it** 💯
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
