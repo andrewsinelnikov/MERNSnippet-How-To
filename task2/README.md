@@ -96,3 +96,5 @@ Specifies how much your footer will shrink relative to the content
 **You did it** 💯
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
