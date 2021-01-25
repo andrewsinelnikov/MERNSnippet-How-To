@@ -17,3 +17,5 @@ Create **components** folder in **src** folder for your components. If you're go
 #### Step 2
 * Type `rafce` in **index.js** for creating your component and change default code
 <img src="img/2.png" width="100%"><br/>
+* Import **Navbar** into **App.js**
+<img src="img/3.png" width="100%"><br/>
