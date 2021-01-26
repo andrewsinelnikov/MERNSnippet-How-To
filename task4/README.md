@@ -32,3 +32,12 @@ Give a structure for navbar in **index.js**
 <img src="img/8.png" width="100%"><br/>
 And style it in **Navbar.module.css**
 <img src="img/9.png" width="100%"><br/>
+
+#### Step 4
+Working on **'nav__logo'** part
+* Replace `div` element on `h1` and add company name in **index.js**
+```HTML
+<h1 className={s.nav__logo}>
+  Modern <span className='text-primary'>Design</span>
+</h1>
+```
