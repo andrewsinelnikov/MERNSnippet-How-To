@@ -54,3 +54,6 @@ Add `text-primary` class into **App.css** to highlight some parts
   color: #f77516;
 }
 ```
+* Add some icon from **[react-icons](https://react-icons.github.io/react-icons)**
+Make sure you installed it (look at **package.json** file)
+<img src="img/10.png" width="100%"><br/>
