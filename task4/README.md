@@ -41,3 +41,10 @@ Working on **'nav__logo'** part
   Modern <span className='text-primary'>Design</span>
 </h1>
 ```
+Style it in **Navbar.module.css**
+```CSS
+.nav__logo {
+  color: #fff;
+  align-self: center;
+}
+```
