@@ -54,6 +54,17 @@ Add `text-primary` class into **App.css** to highlight some parts
   color: #f77516;
 }
 ```
-* Add some icon from **[react-icons](https://react-icons.github.io/react-icons)**
+* Add some icon from **[react-icons](https://react-icons.github.io/react-icons)**<br/>
 Make sure you installed it (look at **package.json** file)
 <img src="img/10.png" width="100%"><br/>
+Add icon you chose into **index.js**
+```Javascript
+import { FaDraftingCompass } from 'react-icons/fa';
+
+// your code
+
+<h1 className={s.nav__logo}>
+  <span className='text-primary'><FaDraftingCompass /></span>{" "}
+  Modern <span className='text-primary'>Design</span>
+</h1>
+````
