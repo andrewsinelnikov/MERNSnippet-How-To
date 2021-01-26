@@ -12,7 +12,7 @@ We're going to create the following navbar
 * for large screen
   <img src="img/4.png" width="100%"><br/>
 * for small screen<br/>
-  <img src="img/5.png" width="50%" text-align="center">
+  <img src="img/5.png" width="50%"><br/>
   <img src="img/6.png" width="50%"><br/>
 
 
@@ -25,3 +25,8 @@ Create **components** folder in **src** folder for your components. If you're go
 <img src="img/2.png" width="100%"><br/>
 * Import **Navbar** into **App.js**. We place it on top of the `Switch` in order to display it for each page
 <img src="img/3.png" width="100%"><br/>
+
+#### Step 3
+Give a structure for navbar in **index.js**
+<img src="img/7.png" width="100%"><br/>
+<img src="img/8.png" width="100%"><br/>
