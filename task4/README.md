@@ -11,8 +11,8 @@ Building a navigation bar that displays all your links in one horizontal row on 
 We're going to create the following navbar
 * for large screen
   <img src="img/4.png" width="100%"><br/>
-* for small screen
-  <img src="img/5.png" width="45%"> <img src="img/5.png" width="45%"><br/>
+* for small screen<br/>
+  <img src="img/5.png" width="49%">  <img src="img/5.png" width="49%"><br/>
 
 
 #### Step 1
