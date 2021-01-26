@@ -30,5 +30,5 @@ Create **components** folder in **src** folder for your components. If you're go
 Give a structure for navbar in **index.js**
 <img src="img/7.png" width="100%"><br/>
 <img src="img/8.png" width="100%"><br/>
-And style it in general
+And style it in **Navbar.module.css**
 <img src="img/9.png" width="100%"><br/>
