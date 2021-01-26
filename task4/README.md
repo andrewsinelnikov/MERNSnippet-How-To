@@ -68,3 +68,15 @@ import { FaDraftingCompass } from 'react-icons/fa';
   Modern <span className='text-primary'>Design</span>
 </h1>
 ````
+* Add a link for this item with **[react-router-dom](https://reactrouter.com/web/guides/quick-start)** (make sure you installed it)
+```Javascript
+import { Link } from 'react-router-dom';
+
+// your code
+<Link to='/'>
+  <h1 className={s.nav__logo}>
+    <span className='text-primary'><FaDraftingCompass /></span>{" "}
+    Modern <span className='text-primary'>Design</span>
+  </h1>
+</Link>
+````
