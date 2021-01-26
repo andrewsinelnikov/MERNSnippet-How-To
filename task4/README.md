@@ -48,3 +48,9 @@ Style it in **Navbar.module.css**
   align-self: center;
 }
 ```
+Add `text-primary` class into **App.css** to highlight some parts
+```CSS
+.text-primary {
+  color: #f77516;
+}
+```
