@@ -102,3 +102,19 @@ const Burger = () => {
 
 export default Burger
 ````
+* Add some icons for your *burger* when it is open and closed
+```Javascript
+import React from 'react';
+import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
+
+// then
+  return (
+        <div className={s.nav__burger}>
+             <AiOutlineClose />
+             <AiOutlineMenu />
+        </div>
+    )
+}
+
+export default Burger
+````
