@@ -102,6 +102,7 @@ const Burger = () => {
 
 export default Burger
 ````
+
 * Add some icons for your *burger* when it is open and closed
 ```Javascript
 import React from 'react';
@@ -118,6 +119,7 @@ import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 
 export default Burger
 ````
+
 * Import **Burger** component into **Navbar** component
 ```Javascript
 import React, { useState } from 'react';
@@ -130,7 +132,7 @@ import s from "./Navbar.module.css";
 //then
 
             <div className={s.nav__right}>
-                <Burger open={open} setOpen={setOpen}/>
+                <Burger />
                 <ul className={s.nav__items}> </ul>
             </div>
         </nav>
@@ -138,3 +140,17 @@ import s from "./Navbar.module.css";
 }
 export default Navbar
 ````
+
+* Style **Burger** component with `.nav__burger` class in **Navbar.module.css**
+````CSS
+.nav__burger {
+  color: #f77516;
+  font-size: 2rem;
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  z-index: 20;
+  display: block;
+}
+````
+
