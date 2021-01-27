@@ -154,3 +154,11 @@ export default Navbar
 }
 ````
 
+* In order to display **Burger** just for small screens (for example, maximum width 768px), add **media query** to describe it
+````CSS
+@media all and (min-width: 768px) {
+  .nav__burger {
+    display: none;
+  }
+}
+````
