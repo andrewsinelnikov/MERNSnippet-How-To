@@ -164,3 +164,15 @@ export default Navbar
 ````
 
 * To open/close the menu when clicking, you need to add some state that will handle it
+  * Add **state** for **Navbar** and pass it into **Burger** component
+```Javascript
+import React, { useState } from 'react';
+
+// then
+
+const Navbar = () => {
+    const [open, setOpen] = useState(false);
+
+// then
+                <Burger open={open} setOpen={setOpen}/>
+````
