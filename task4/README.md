@@ -194,5 +194,9 @@ const Burger = ({ open, setOpen }) => {
 export default Burger
 ````
 
+<img src="img/14.png" width="100%"><br/>
+<img src="img/15.png" width="100%"><br/>
+<img src="img/16.png" width="100%"><br/>
 
-  * Add `open, setOpen` as props into **Burger** (*Burger.js*). Depending on `open` value, the menu will be closed or opened. `open` value will be changed when you click on *burger* icon
+And we've got
+<img src="img/17.png" width="100%"><br/>
