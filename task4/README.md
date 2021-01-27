@@ -165,7 +165,9 @@ export default Navbar
 
 * To open/close the menu when clicking, you need to add some state that will handle it
   * Add **state** for **Navbar** where `open` with initial value `false`, that means menu is closed. Pass it into **Burger** component
-```Javascript
+  * Add `open, setOpen` as props into **Burger** (*Burger.js*). Depending on `open` value, the menu will be closed or opened. `open` value will be changed when you click on *burger* icon
+
+````Javascript
 import React, { useState } from 'react';
 
 // then
@@ -177,4 +179,20 @@ const Navbar = () => {
                 <Burger open={open} setOpen={setOpen}/>
 ````
 
-  * Add `open, setOpen` as props into **Burger** (*Burger.js*). Depending on `open` value, the menu will be closed or opened. `open` value will be changen when you click on *burger* icon
+and **Burger.js**
+````Javascript
+// your imports
+
+const Burger = ({ open, setOpen }) => {
+    return (
+        <div open={open} onClick={() => setOpen(!open)} className={s.nav__burger}>
+                {open ? <AiOutlineClose /> : <AiOutlineMenu />}
+        </div>
+    )
+}
+
+export default Burger
+````
+
+
+  * Add `open, setOpen` as props into **Burger** (*Burger.js*). Depending on `open` value, the menu will be closed or opened. `open` value will be changed when you click on *burger* icon
