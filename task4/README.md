@@ -176,3 +176,5 @@ const Navbar = () => {
 // then
                 <Burger open={open} setOpen={setOpen}/>
 ````
+
+  * Add `open, setOpen` as props into **Burger** (*Burger.js*). Depending on `open` value, the menu will be closed or opened. `open` value will be changen when you click on *burger* icon
