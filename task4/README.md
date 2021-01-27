@@ -83,3 +83,22 @@ import { Link } from 'react-router-dom';
 <img src="img/11.png" width="100%"><br/>
 <img src="img/12.png" width="100%"><br/>
 <img src="img/13.png" width="100%"><br/>
+
+#### Step 5
+Working on **'nav__burger'** part
+* We will create separate component for this part - **Burger.js** in **Navbar** folder
+```Javascript
+import React from 'react';
+
+import s from "./Navbar.module.css";
+
+const Burger = () => {
+    return (
+        <div className={s.nav__burger}>
+             Burger
+        </div>
+    )
+}
+
+export default Burger
+````
