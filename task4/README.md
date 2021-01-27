@@ -118,3 +118,23 @@ import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 
 export default Burger
 ````
+* Import **Burger** component into **Navbar** component
+```Javascript
+import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
+import { FaDraftingCompass } from 'react-icons/fa';
+import Burger from './Burger';
+
+import s from "./Navbar.module.css";
+
+//then
+
+            <div className={s.nav__right}>
+                <Burger open={open} setOpen={setOpen}/>
+                <ul className={s.nav__items}> </ul>
+            </div>
+        </nav>
+    )
+}
+export default Navbar
+````
