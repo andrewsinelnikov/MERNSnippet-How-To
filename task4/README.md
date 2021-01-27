@@ -162,3 +162,5 @@ export default Navbar
   }
 }
 ````
+
+* To open/close the menu when clicking, you need to add some state that will handle it
