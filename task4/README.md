@@ -479,3 +479,12 @@ Finally, our files look like <br />
 <img src="img/20.png" width="100%">
 <img src="img/21.png" width="100%">
 <img src="img/22.png" width="100%"><br/>
+
+### Your Navbar is ready 🌷 <br />
+<img src="img/23.png" width="100%"><br/>
+<img src="img/24.png" width="100%"><br/>
+<img src="img/25.png" width="100%"><br/>
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
