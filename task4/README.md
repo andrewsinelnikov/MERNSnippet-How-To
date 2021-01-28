@@ -347,18 +347,20 @@ export default NavItems
 }
 ````
 
-* Style our menu for small screen. In order to do this we will add **media query** for the list
+* Style our menu for small screen. In order to do this we will add **media query** for the list when menu is closed
 ````CSS
 @media all and (max-width: 767px) {
   .nav__list {
     flex-flow: column nowrap;
     background: #333;
     position: fixed;
-    top: 0;
-    right: 0;
+    top: 62px;
+    right: -100%;
     height: 100vh;
-    width: 18.75rem;
+    width: 20rem;
     padding-top: 3.5rem;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
   }
 
   li {
