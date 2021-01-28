@@ -243,7 +243,12 @@ import NavItems from './NavItems';
 const NavItems = () => {
     return (
         <ul>
-            Items
+          <li>
+              products
+          </li>
+          <li>
+              my cart
+          </li>
         </ul>
     )
 }
