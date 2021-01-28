@@ -346,3 +346,23 @@ export default NavItems
   background: #f77516;
 }
 ````
+
+* Style our menu for small screen. In order to do this we will add **media query** for the list
+````CSS
+@media all and (max-width: 767px) {
+  .nav__list {
+    flex-flow: column nowrap;
+    background: #333;
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 18.75rem;
+    padding-top: 3.5rem;
+  }
+
+  li {
+    padding: 1.125rem 0.625rem;
+  }
+}
+````
