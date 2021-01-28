@@ -283,7 +283,7 @@ const NavItems = () => {
 export default NavItems
 ````
 
-* Style your list of items in **Navbar.module.css**
+* Style your list of items in **Navbar.module.css** with `.nav__list` class
 ````CSS
 .nav__list {
   display: flex;
@@ -294,5 +294,22 @@ export default NavItems
 
 .nav__list a {
   text-decoration: none;
+}
+````
+
+* Style your links with `.nav__link` class
+````CSS
+.nav__link {
+  color: #fff;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding: 0.5rem 2rem;
+  margin: 0 0.25rem;
+  cursor: pointer;
+}
+
+.nav__link:hover {
+  background: #f77516;
+  border-radius: 0.5rem;
 }
 ````
