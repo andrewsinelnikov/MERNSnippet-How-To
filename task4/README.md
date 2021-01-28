@@ -471,3 +471,5 @@ export default NavItems
   //code after
   ````
   
+Finally, our files look like <br />
+<img src="img/18.png" width="100%"><br/>
