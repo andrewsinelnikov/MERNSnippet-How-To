@@ -256,7 +256,7 @@ const NavItems = () => {
 export default NavItems
 ````
 
-* Set a link for each items
+* Set a link for each items and add classes for styling
 ```Javascript
 import React from 'react';
 import { Link } from 'react-router-dom';
@@ -265,14 +265,14 @@ import s from "./Navbar.module.css";
 
 const NavItems = () => {
     return (
-        <ul>
+        <ul className={s.nav__list}>
           <li>
-            <Link to='/products' className='navbar__link'>
+            <Link to='/products' className={s.nav__link}>
               products
             </Link>
           </li>
           <li>
-            <Link to='/cart' className='navbar__link'>
+            <Link to='/cart'  className={s.nav__link}>
               my cart
             </Link>
           </li>
