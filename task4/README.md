@@ -163,8 +163,8 @@ export default Navbar
 }
 ````
 
-* To open/close the menu when clicking, you need to add some state that will handle it
-  * Add **state** for **Navbar** where `open` with initial value `false`, that means menu is closed (for this purpose use [`useState`](https://reactjs.org/docs/hooks-state.html)). Pass it into **Burger** component
+* To open / close the menu when clicking, you need to add some state that will handle it
+  * Add **state** for **Navbar** where `open` with initial value `false`, that means menu is closed (for this purpose use [`useState`](https://reactjs.org/docs/hooks-state.html) hook). Pass it into **Burger** component
   * Add `open, setOpen` as props into **Burger** (*Burger.js*). Depending on `open` value, the menu will be closed or opened. `open` value will be changed when you click on *burger* icon
 
 ````Javascript
@@ -416,3 +416,12 @@ export default NavItems
   }
   ````
   
+* To open / close the menu when clicking, we will use **state** as we did to handle *burger* icon
+  * Pass **state** value into **NavItems** component in **Navbar**
+  ````Javascript
+  //code before
+
+          <NavItems  open={open} setOpen={setOpen}/>
+
+  //code after
+  ````
