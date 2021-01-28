@@ -473,3 +473,7 @@ export default NavItems
   
 Finally, our files look like <br />
 <img src="img/18.png" width="100%"><br/>
+
+<img src="img/19.png" width="100%"><br/>
+
+<img src="img/20.png" width="100%"><br/>
