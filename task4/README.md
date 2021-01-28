@@ -448,3 +448,26 @@ export default NavItems
 
   //code after
   ````
+
+  * When a user selected a menu item, close the menu by changing **state**
+  ````Javascript
+  //code before
+
+    return (
+        <ul className={open ? active : close}>
+          <li onClick={() => setOpen(!open)}>
+            <Link to='/products' className={s.nav__link}>
+              products
+            </Link>
+          </li>
+          <li onClick={() => setOpen(!open)}>
+            <Link to='/cart'  className={s.nav__cart}>
+              my cart
+            </Link>
+          </li>
+        </ul>
+    )
+
+  //code after
+  ````
+  
