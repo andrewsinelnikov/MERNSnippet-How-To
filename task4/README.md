@@ -255,3 +255,30 @@ const NavItems = () => {
 
 export default NavItems
 ````
+
+* Set a link for each items
+```Javascript
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+import s from "./Navbar.module.css";
+
+const NavItems = () => {
+    return (
+        <ul>
+          <li>
+            <Link to='/products' className='navbar__link'>
+              products
+            </Link>
+          </li>
+          <li>
+            <Link to='/cart' className='navbar__link'>
+              my cart
+            </Link>
+          </li>
+        </ul>
+    )
+}
+
+export default NavItems
+````
