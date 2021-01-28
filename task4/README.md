@@ -313,3 +313,36 @@ export default NavItems
   border-radius: 0.5rem;
 }
 ````
+
+* We want a different style for `cart` items. Therefore change its class on `.nav__cart` and style it
+````Javascript
+//code before
+
+          <li>
+            <Link to='/cart'  className={s.nav__cart}>
+              my cart
+            </Link>
+          </li>
+
+//code after
+````
+
+````CSS
+.nav__cart {
+  color: #f77516;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding: 0.5rem 2rem;
+  margin: 0 0.25rem;
+  cursor: pointer;
+  background: transparent;
+  border: 0.05rem solid #f77516;
+  border-radius: 0.5rem;
+  transition: all 0.5s ease-in-out;
+}
+
+.nav__cart:hover {
+  color: #fff;
+  background: #f77516;
+}
+````
