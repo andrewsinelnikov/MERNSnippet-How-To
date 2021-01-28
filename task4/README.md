@@ -204,7 +204,7 @@ And we've got
 ### Step 6
 Working on **'nav__items'** part
 * Let's create it also as separate component -  **NavItems.js** in **Navbar** folder
-```Javascript
+````Javascript
 import React from 'react';
 
 import s from "./Navbar.module.css";
@@ -221,7 +221,7 @@ export default NavItems
 ````
 
 * Import **NavItems.js** into **Navbar.js**
-```Javascript
+````Javascript
 //your imports
 
 import NavItems from './NavItems';
@@ -237,7 +237,7 @@ import NavItems from './NavItems';
 ````
 
 * Add items for our **NavItems** as a list
-```Javascript
+````Javascript
 // your imports
 
 const NavItems = () => {
@@ -257,7 +257,7 @@ export default NavItems
 ````
 
 * Set a link for each items and add classes for styling
-```Javascript
+````Javascript
 import React from 'react';
 import { Link } from 'react-router-dom';
 
@@ -281,4 +281,18 @@ const NavItems = () => {
 }
 
 export default NavItems
+````
+
+* Style your list of items in **Navbar.module.css**
+````CSS
+.nav__list {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  list-style: none;
+}
+
+.nav__list a {
+  text-decoration: none;
+}
 ````
