@@ -476,4 +476,6 @@ Finally, our files look like <br />
 
 <img src="img/19.png" width="100%"><br/>
 
-<img src="img/20.png" width="100%"><br/>
+<img src="img/20.png" width="100%">
+<img src="img/21.png" width="100%">
+<img src="img/22.png" width="100%"><br/>
