@@ -434,3 +434,17 @@ export default NavItems
 
   //code after
   ````
+
+  * Depending on **state** value, assign a class for the list of menu items (`.nav__list` or `nav__active`) 
+  ````Javascript
+  //code before
+
+  const NavItems = ({ open, setOpen }) => {
+    let close = s.nav__list;
+    let active = s.nav__active;
+    
+    return (
+        <ul className={open ? active : close}>
+
+  //code after
+  ````
