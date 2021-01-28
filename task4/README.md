@@ -425,3 +425,12 @@ export default NavItems
 
   //code after
   ````
+
+  * Get state as props in **NavItems**
+  ````Javascript
+  //code before
+
+  const NavItems = ({ open, setOpen }) => {
+
+  //code after
+  ````
