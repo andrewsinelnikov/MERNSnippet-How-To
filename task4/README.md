@@ -87,7 +87,7 @@ import { Link } from 'react-router-dom';
 ### Step 5
 Working on **'nav__burger'** part
 * We will create separate component for this part - **Burger.js** in **Navbar** folder
-```Javascript
+````Javascript
 import React from 'react';
 
 import s from "./Navbar.module.css";
@@ -203,3 +203,19 @@ And we've got
 
 ### Step 6
 Working on **'nav__items'** part
+* Let's create it also as separate component -  **NavItems.js** in **Navbar** folder
+```Javascript
+import React from 'react';
+
+import s from "./Navbar.module.css";
+
+const NavItems = () => {
+    return (
+        <div>
+            Items
+        </div>
+    )
+}
+
+export default NavItems
+````
