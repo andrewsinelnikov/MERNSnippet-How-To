@@ -368,3 +368,21 @@ export default NavItems
   }
 }
 ````
+
+* To display menu when it is opened we add class `.nav__active`
+  * First, place it where we described `.nav__list`
+  ````CSS
+  .nav__list,
+  .nav__active {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    list-style: none;
+  }
+
+  .nav__list a,
+  .nav__active a {
+    text-decoration: none;
+  }
+  ````
+  
