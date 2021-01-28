@@ -385,4 +385,34 @@ export default NavItems
     text-decoration: none;
   }
   ````
+  * Style it for small screen
+  ````CSS
+  @media all and (max-width: 767px) {
+    .nav__list,
+    .nav__active {
+      flex-flow: column nowrap;
+      background: #333;
+      position: fixed;
+      top: 62px;
+      right: -100%;
+      height: 100vh;
+      width: 20rem;
+      padding-top: 3.5rem;
+      opacity: 0;
+      transition: all 0.5s ease-in-out;
+    }
+
+    .nav__active {
+      right: 0;
+      opacity: 1;
+      transition: all 0.5s ease-in-out;
+      z-index: 1;
+      align-content: center;
+    }
+
+    li {
+      padding: 1.125rem 0.625rem;
+    }
+  }
+  ````
   
