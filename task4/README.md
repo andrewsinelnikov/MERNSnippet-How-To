@@ -219,3 +219,34 @@ const NavItems = () => {
 
 export default NavItems
 ````
+
+* Import **NavItems.js** into **Navbar.js**
+```Javascript
+//your imports
+
+import NavItems from './NavItems';
+
+// then
+
+            <div className={s.nav__right}>
+                <Burger open={open} setOpen={setOpen}/>
+                <NavItems />
+            </div>
+
+// other code
+````
+
+* Add items for our **NavItems** as a list
+```Javascript
+// your imports
+
+const NavItems = () => {
+    return (
+        <ul>
+            Items
+        </ul>
+    )
+}
+
+export default NavItems
+````
