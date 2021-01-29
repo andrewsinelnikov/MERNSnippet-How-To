@@ -517,7 +517,10 @@ Adding more menu options to **NavItems (optional)
     )
 
   //code after
-  ````
+ ````
+  
+* There is a better way. We want to reduce the amount of code
+  * Create menu items object
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
 
