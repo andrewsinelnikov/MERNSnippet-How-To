@@ -440,11 +440,8 @@ export default NavItems
   //code before
 
   const NavItems = ({ open, setOpen }) => {
-    let close = s.nav__list;
-    let active = s.nav__active;
-    
     return (
-        <ul className={open ? active : close}>
+        <ul className={open ? s.nav__active : s.nav__list}>
 
   //code after
   ````
@@ -454,7 +451,7 @@ export default NavItems
   //code before
 
     return (
-        <ul className={open ? active : close}>
+        <ul className={open ? s.nav__active : s.nav__list}>
           <li onClick={() => setOpen(!open)}>
             <Link to='/products' className={s.nav__link}>
               products
@@ -492,7 +489,7 @@ Adding more menu options to **NavItems (optional)
   //code before
 
     return (
-        <ul className={open ? active : close}>
+        <ul className={open ? s.nav__active : s.nav__list}>
           <li onClick={() => setOpen(!open)}>
             <Link to='/about' className={s.nav__link}>
               about us
