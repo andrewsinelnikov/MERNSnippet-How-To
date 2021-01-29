@@ -517,7 +517,7 @@ Adding more menu options to **NavItems (optional)
  ````
   
 * There is a better way. We want to reduce the amount of code
-  * Create an array of items. Each item as an object has `id`, `to` - link value, and `iten` - item value
+  * Create an array of items. Each item as an object has `id`, `to` - link value, and `item` - item value
   ````Javascript
   //code before
 
@@ -531,6 +531,7 @@ Adding more menu options to **NavItems (optional)
 
   //code after
  ````
+ * Use **map** to display menu items
  
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
