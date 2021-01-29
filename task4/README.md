@@ -488,7 +488,36 @@ Finally, our files look like <br />
 ### Step 7
 Adding more menu options to **NavItems (optional)
 * We can simply add as many list items as we want
+````Javascript
+  //code before
 
+    return (
+        <ul className={open ? active : close}>
+          <li onClick={() => setOpen(!open)}>
+            <Link to='/about' className={s.nav__link}>
+              about us
+            </Link>
+          </li>
+          <li onClick={() => setOpen(!open)}>
+            <Link to='/products' className={s.nav__link}>
+              products
+            </Link>
+          </li>
+          <li onClick={() => setOpen(!open)}>
+            <Link to='/contact' className={s.nav__link}>
+              contact
+            </Link>
+          </li>
+          <li onClick={() => setOpen(!open)}>
+            <Link to='/cart'  className={s.nav__cart}>
+              my cart
+            </Link>
+          </li>
+        </ul>
+    )
+
+  //code after
+  ````
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
 
