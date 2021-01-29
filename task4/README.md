@@ -569,7 +569,10 @@ Adding more menu options to **NavItems (optional)
 
   //code after 
   ````
- 
+
+Now the menu looks like
+<img src="img/26.png" width="100%"><br/>
+<img src="img/27.png" width="100%"><br/>
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
 
