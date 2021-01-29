@@ -517,7 +517,21 @@ Adding more menu options to **NavItems (optional)
  ````
   
 * There is a better way. We want to reduce the amount of code
-  * Create menu items object
+  * Create an array of items. Each item as an object has `id`, `to` - link value, and `iten` - item value
+  ````Javascript
+  //code before
+
+    const NavItems = ({ open, setOpen }) => {
+    const navData = [{id: 1, to: '/about', item: 'about us'},
+                     {id: 2, to: '/products', item: 'products'},
+                     {id: 3, to: '/contact', item: 'contact us'}];
+    
+    return (
+
+
+  //code after
+ ````
+ 
 
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
 
