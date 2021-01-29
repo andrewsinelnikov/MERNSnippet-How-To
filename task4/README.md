@@ -485,6 +485,11 @@ Finally, our files look like <br />
 <img src="img/24.png" width="100%"><br/>
 <img src="img/25.png" width="100%"><br/>
 
+### Step 7
+Adding more menu options to **NavItems (optional)
+* We can simply add as many list items as we want
+
+
 #### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
 
 Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
