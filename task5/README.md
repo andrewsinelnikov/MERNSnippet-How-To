@@ -69,3 +69,25 @@ const Burger = ({ open, setOpen }) => {
     
 // code after
 ````
+
+### Step 4
+Clean up effect from the previous render before running the effects next time. We return a function that sets `overflow` to **defaul** value with `[unset](https://developer.mozilla.org/en-US/docs/Web/CSS/unset)` (displays scroll)
+````Javascript
+// your imports
+
+const Burger = ({ open, setOpen }) => {
+    useEffect(() => {
+        if (open) {
+          document.body.style.overflow = 'hidden';
+          document.body.style.paddingRight = '15px';
+        }
+        return () => {
+          document.body.style.overflow = 'unset';
+          document.body.style.paddingRight = '0px';
+        };
+      }, [open]);
+
+    return (
+    
+// code after
+````
