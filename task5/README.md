@@ -18,7 +18,7 @@ We want to have this one
 Since our menu is handled by **Burger.js** (see [Build A Responsive NAVBAR in React](https://github.com/andrewsinelnikov/ReactSnippet-How-To/edit/main/task4/README.md)) we will add a solution there.
 
 ### Step 1
-To perform side effect (in this case, hiding scroll) we will use us [the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
+To perform side effect (in this case, hiding scroll) we will use us [the Effect Hook](https://reactjs.org/docs/hooks-effect.html) - *useEffect()*
 ````Javascript
 import React, {useEffect} from 'react';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
@@ -29,6 +29,23 @@ const Burger = ({ open, setOpen }) => {
     useEffect(() => {
         
       }, []);
+
+    return (
+    
+// code after
+````
+
+### Step 2
+Add condition for the effect (we want this effect only when our nav menu is open)
+````Javascript
+// your imports
+
+const Burger = ({ open, setOpen }) => {
+    useEffect(() => {
+        if (open) {
+        
+        }
+      }, [open]);
 
     return (
     
