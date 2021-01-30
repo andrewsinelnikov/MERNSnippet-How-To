@@ -14,3 +14,5 @@ Instead of this
 
 We want to have this one
 <img src="img/2.png" width="100%"><br/>
+
+Since our menu is handled by **Burger.js** (see [Build A Responsive NAVBAR in React](https://github.com/andrewsinelnikov/ReactSnippet-How-To/edit/main/task4/README.md)) we will add a solution there.
