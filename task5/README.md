@@ -7,4 +7,4 @@
 ---
 
 ### Description
-Building a 
+When the navigation menu is open, the user does not need to scroll the web page. Scrolling through the page on some websites makes the user interface ugly. So it's better to disable scrolling
