@@ -71,7 +71,7 @@ const Burger = ({ open, setOpen }) => {
 ````
 
 ### Step 4
-Clean up effect from the previous render before running the effects next time. We return a function that sets `overflow` to **defaul** value with `[unset](https://developer.mozilla.org/en-US/docs/Web/CSS/unset)` (displays scroll)
+Clean up effect from the previous render before running the effects next time. We return a function that sets `overflow` to **defaul** value with `unset` (see [unset](https://developer.mozilla.org/en-US/docs/Web/CSS/unset)) (displays scroll)
 ````Javascript
 // your imports
 
@@ -91,3 +91,10 @@ const Burger = ({ open, setOpen }) => {
     
 // code after
 ````
+
+### You did it. It's simple
+<img src="img/2.png" width="100%"><br/>
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
