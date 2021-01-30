@@ -51,3 +51,21 @@ const Burger = ({ open, setOpen }) => {
     
 // code after
 ````
+
+### Step 3
+Add style to hide scroll (`overflow='hidden'` and some padding to fill scrollbar place)
+````Javascript
+// your imports
+
+const Burger = ({ open, setOpen }) => {
+    useEffect(() => {
+        if (open) {
+          document.body.style.overflow = 'hidden';
+          document.body.style.paddingRight = '15px';
+        }
+      }, [open]);
+
+    return (
+    
+// code after
+````
