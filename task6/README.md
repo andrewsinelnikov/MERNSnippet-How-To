@@ -92,3 +92,29 @@ export const useOnClickOutside = (ref, handler) => {
     }, [ref, handler]);
 };
 ````
+
+### Step 5
+Add created hook to **Navbar** and pass the action you need (in this case, in order to close menu set **open** value of the state to `false`)
+
+````Javascript
+import React, { useState, useRef } from 'react';
+import { useOnClickOutside } from './hooks';
+// your imports
+
+const Navbar = () => {
+    const [open, setOpen] = useState(false);
+    const node = useRef(); 
+    useOnClickOutside(node, () => setOpen(false));
+    return (
+        <nav className={s.navbar}>
+            <Link to='/'>
+                // code for logo
+            </Link>
+            <div ref={node}>
+                <Burger open={open} setOpen={setOpen}/>
+                <NavItems  open={open} setOpen={setOpen}/>
+            </div>
+        </nav>
+    
+// code after
+````
