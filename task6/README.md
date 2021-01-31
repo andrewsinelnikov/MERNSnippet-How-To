@@ -118,3 +118,13 @@ const Navbar = () => {
     
 // code after
 ````
+
+Your files should look like this <br />
+<img src="img/2.png" width="100%"><br/>
+<img src="img/3.png" width="100%"><br/>
+
+Good job 👍
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
