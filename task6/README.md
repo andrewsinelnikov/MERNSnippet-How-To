@@ -42,8 +42,36 @@ import { useEffect } from 'react';
 
 export const useOnClickOutside = (ref, handler) => {
     useEffect(() => {
-            
-        }, [ref, handler],
-    );
+        const listener = event => {
+            if (!ref.current || ref.current.contains(event.target)) {
+            return;
+            }
+            handler(event);
+        };
+        document.addEventListener('mousedown', listener);
+        return () => {
+            document.removeEventListener('mousedown', listener);
+        };
+    }, [ref, handler]);
+};
+````
+
+### Step 3
+Check if the current reference still exists (`ref.current` - gives us an access to the element we have the reference for, `ref.current.contains()` - indicates whether a node is a descendant of a given node, one of its direct children, one of the children's direct children, and so on).
+If the click was outside the sidebsr menu we add a global click listener on the body element
+
+````Javascript
+import { useEffect } from 'react';
+
+export const useOnClickOutside = (ref, handler) => {
+    useEffect(() => {
+        const listener = event => {
+            if (!ref.current || ref.current.contains(event.target)) {
+            return;
+            }
+            handler(event);
+        };
+        document.addEventListener('mousedown', listener);
+    }, [ref, handler]);
 };
 ````
