@@ -75,3 +75,20 @@ export const useOnClickOutside = (ref, handler) => {
     }, [ref, handler]);
 };
 ````
+
+### Step 4
+clean the listener when the element gets unmounted
+
+````Javascript
+import { useEffect } from 'react';
+
+export const useOnClickOutside = (ref, handler) => {
+    useEffect(() => {
+        // code before
+        
+        return () => {
+            document.removeEventListener('mousedown', listener);
+        };
+    }, [ref, handler]);
+};
+````
