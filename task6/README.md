@@ -33,3 +33,17 @@ const Navbar = () => {
     
 // code after
 ````
+
+### Step 2
+To handle our action (close menu when clicking outside) we create our own hook `useOnClickOutside()` (add **hooks.js** file to **Navbar** folder), where `ref` - the reference to needed elements, `handler` - action to do. For performing it we will use us [the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
+
+````Javascript
+import { useEffect } from 'react';
+
+export const useOnClickOutside = (ref, handler) => {
+    useEffect(() => {
+            
+        }, [ref, handler],
+    );
+};
+````
