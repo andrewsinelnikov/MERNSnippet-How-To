@@ -12,4 +12,5 @@ New article every Thursday
 * [Get Top Of The Page On Every TRANSITION](task1/README.md)
 * [Build A Responsive NAVBAR in React](task4/README.md)
 * [Prevent SCROLL When The Nav Menu Is Open](task5/README.md)
+* [Close Menu When Clicking OUTSIDE](task6/README.md)
 * [Stick A FOOTER To Bottom Of The Webpage](task2/README.md)
