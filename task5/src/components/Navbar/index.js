@@ -1,5 +1,4 @@
-import React, { useState, useRef } from 'react';
-import { useOnClickOutside } from './hooks';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FaDraftingCompass } from 'react-icons/fa';
 import Burger from './Burger';
@@ -8,9 +7,7 @@ import NavItems from './NavItems';
 import s from "./Navbar.module.css";
 
 const Navbar = () => {
-    const [open, setOpen] = useState(false);
-    const node = useRef(); 
-    useOnClickOutside(node, () => setOpen(false));
+    const [open, setOpen] = useState(false);  
     return (
         <nav className={s.navbar}>
             <Link to='/'>
@@ -19,7 +16,7 @@ const Navbar = () => {
                     Modern<span className='text-primary'>Design</span>
                 </h1>
             </Link>
-            <div ref={node}>
+            <div>
                 <Burger open={open} setOpen={setOpen}/>
                 <NavItems  open={open} setOpen={setOpen}/>
             </div>
