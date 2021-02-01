@@ -1,0 +1,110 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  top: 0;
+  background: #333;
+  color: #fff;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.nav__logo {
+  color: #fff;
+  align-self: center;
+}
+
+.nav__burger {
+  color: #f77516;
+  font-size: 2rem;
+  position: fixed;
+  top: 15px;
+  right: 20px;
+  z-index: 20;
+  display: block;
+}
+
+@media all and (min-width: 768px) {
+  .nav__burger {
+    display: none;
+  }
+}
+
+.nav__list,
+.nav__active {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  list-style: none;
+}
+
+.nav__list a,
+.nav__active a {
+  text-decoration: none;
+}
+
+.nav__link {
+  color: #fff;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding: 0.5rem 2rem;
+  margin: 0 0.25rem;
+  cursor: pointer;
+}
+
+.nav__link:hover {
+  background: #f77516;
+  border-radius: 0.5rem;
+}
+
+.nav__cart {
+  color: #f77516;
+  font-size: 1rem;
+  text-transform: uppercase;
+  padding: 0.5rem 2rem;
+  margin: 0 0.25rem;
+  cursor: pointer;
+  background: transparent;
+  border: 0.05rem solid #f77516;
+  border-radius: 0.5rem;
+  transition: all 0.5s ease-in-out;
+}
+
+.nav__cart:hover {
+  color: #fff;
+  background: #f77516;
+}
+
+@media all and (max-width: 767px) {
+  .nav__list,
+  .nav__active {
+    flex-flow: column nowrap;
+    background: #333;
+    position: fixed;
+    top: 62px;
+    right: -100%;
+    height: 100vh;
+    width: 20rem;
+    padding-top: 3.5rem;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+  }
+
+  .nav__active {
+    right: 0;
+    opacity: 1;
+    transition: all 0.5s ease-in-out;
+    z-index: 1;
+    align-content: center;
+  }
+
+  li {
+    padding: 1.125rem 0.625rem;
+  }
+}
