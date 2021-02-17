@@ -14,4 +14,4 @@ New article every Thursday
 * [Prevent SCROLL When The Nav Menu Is Open](task5/README.md)
 * [Close Menu When Clicking OUTSIDE](task6/README.md)
 * [Stick a FOOTER To Bottom Of The Webpage](task2/README.md)
-* [Create a Product Card](task7/README.md)
+* [Create a Product CARD](task7/README.md)
