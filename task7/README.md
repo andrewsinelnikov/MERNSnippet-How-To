@@ -14,7 +14,7 @@ In order to display a list products we need a component **Products**. So let's m
 
 <img src="img/1.png" width="100%"><br/>
 
-Add path for this component in **App.js**
+Add path for this component into **App.js**
 
 <img src="img/2.png" width="100%"><br/>
 
@@ -22,3 +22,7 @@ Add path for this component in **App.js**
 Create **ProductItem** component to display a single product card
 
 <img src="img/3.png" width="100%"><br/>
+
+Add **ProductItem** component into **Products.js**
+
+<img src="img/4.png" width="100%"><br/>
