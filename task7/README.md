@@ -127,3 +127,6 @@ Style your card
   margin-right: 0.25rem;
 }
 ````
+
+You've done it!
+<img src="img/9.png" width="100%"><br/>
