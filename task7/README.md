@@ -58,3 +58,9 @@ Set card data through `props`
 
 Now we have
 <img src="img/7.png" width="100%"><br/>
+
+### Step 5
+Style your card
+
+    Give names for classes
+    <img src="img/8.png" width="100%"><br/>
