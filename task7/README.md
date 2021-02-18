@@ -26,3 +26,29 @@ Create **ProductItem** component to display a single product card
 Add **ProductItem** component into **Products.js**
 
 <img src="img/4.png" width="100%"><br/>
+
+### Step 3
+Give a html structure to your card in **ProductItem.js**
+
+````Javascript
+import React, { useState, useRef } from 'react';
+import { useOnClickOutside } from './hooks';
+// your imports
+
+const Navbar = () => {
+    const [open, setOpen] = useState(false);
+    const node = useRef(); 
+    useOnClickOutside(node, () => setOpen(false));
+    return (
+        <nav className={s.navbar}>
+            <Link to='/'>
+                // code for logo
+            </Link>
+            <div ref={node}>
+                <Burger open={open} setOpen={setOpen}/>
+                <NavItems  open={open} setOpen={setOpen}/>
+            </div>
+        </nav>
+    
+// code after
+````
