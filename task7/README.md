@@ -43,3 +43,4 @@ Give a html structure to your card in **ProductItem.js**
     </div>
 </div>
 ````
+Here we saved our images in the next folders **public -> img ->** image files
