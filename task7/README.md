@@ -128,5 +128,11 @@ Style your card
 }
 ````
 
-You've done it!
+You've done it 🔥!
 <img src="img/9.png" width="100%"><br/>
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task7/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
