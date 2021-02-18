@@ -62,5 +62,68 @@ Now we have
 ### Step 5
 Style your card
 
-    Give names for classes
+* Give names for classes
 <img src="img/8.png" width="100%"><br/>
+
+* Add style into **ProductItem.module.css**
+````CSS
+.card {
+  width: 15rem;
+  position: relative;
+  background-color: #fff;
+  margin: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  transition: all 1s linear;
+}
+
+.card:hover {
+  border: 0.04rem solid rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.card:hover .card__footer {
+  background: rgba(247, 247, 247);
+}
+
+.card__top {
+  position: relative;
+  overflow: hidden;
+}
+
+.card__img {
+  width: 100%;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+  transition: all 1s linear;
+}
+
+.card__top:hover .card__img {
+  transform: scale(1.2);
+}
+
+.card__footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.75rem 1.25rem;
+  background: transparent;
+  border-top: transparent;
+  transition: all 1s linear;
+}
+.card__footer p {
+  align-self: center;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.card__footer h5 {
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+.card__footer h5 span {
+  margin-right: 0.25rem;
+}
+````
