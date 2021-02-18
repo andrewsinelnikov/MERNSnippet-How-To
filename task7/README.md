@@ -52,3 +52,6 @@ Here we saved our images in the next folders **public -> img ->** image files
 
 ### Step 4
 Set card data through `props`
+
+<img src="img/5.png" width="100%"><br/>
+<img src="img/6.png" width="100%"><br/>
