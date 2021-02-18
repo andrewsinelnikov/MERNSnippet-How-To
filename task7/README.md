@@ -18,6 +18,11 @@ Add path for this component into **App.js**
 
 <img src="img/2.png" width="100%"><br/>
 
+Style your card list in **Products.module.css**
+
+<img src="img/2b.png" width="100%"><br/>
+<img src="img/2c.png" width="100%"><br/>
+
 ### Step 2
 Create **ProductItem** component to display a single product card
 
@@ -44,3 +49,6 @@ Give a html structure to your card in **ProductItem.js**
 </div>
 ````
 Here we saved our images in the next folders **public -> img ->** image files
+
+### Step 4
+Set card data through `props`
