@@ -30,25 +30,16 @@ Add **ProductItem** component into **Products.js**
 ### Step 3
 Give a html structure to your card in **ProductItem.js**
 
-````Javascript
-import React, { useState, useRef } from 'react';
-import { useOnClickOutside } from './hooks';
-// your imports
-
-const Navbar = () => {
-    const [open, setOpen] = useState(false);
-    const node = useRef(); 
-    useOnClickOutside(node, () => setOpen(false));
-    return (
-        <nav className={s.navbar}>
-            <Link to='/'>
-                // code for logo
-            </Link>
-            <div ref={node}>
-                <Burger open={open} setOpen={setOpen}/>
-                <NavItems  open={open} setOpen={setOpen}/>
-            </div>
-        </nav>
-    
-// code after
+````HTML
+<div className='card'>
+    <div className='card__top'>
+        <a href='#!'>
+            <img src='../../img/E_1.jpg' alt='product' className='card__img__top'></img>
+        </a>
+    </div>
+    <div className='card__footer'>
+      <p>Title</p>
+      <h5><span>$</span> 6</h5>
+    </div>
+</div>
 ````
