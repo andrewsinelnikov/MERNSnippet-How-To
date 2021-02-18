@@ -63,4 +63,4 @@ Now we have
 Style your card
 
     Give names for classes
-    <img src="img/8.png" width="100%"><br/>
+<img src="img/8.png" width="100%"><br/>
