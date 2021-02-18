@@ -55,3 +55,6 @@ Set card data through `props`
 
 <img src="img/5.png" width="100%"><br/>
 <img src="img/6.png" width="100%"><br/>
+
+Now we have
+<img src="img/7.png" width="100%"><br/>
