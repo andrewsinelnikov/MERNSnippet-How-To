@@ -97,4 +97,10 @@ export const storeProducts = [
 
 Since images for products a located in **public -> img** folder we set a path in the next way: for E_1.jpg image we set a path `'../../img/E_1.jpg'`
 
+### Step 2
+Import data into **Products**
+````Javascript
+    import { storeProducts } from './data';
+````
+
 <img src="img/2.png" width="100%"><br/>
