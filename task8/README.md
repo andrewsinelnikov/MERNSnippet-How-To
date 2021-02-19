@@ -7,7 +7,11 @@
 ---
 
 ### Description
-The product card is designed to showcase e-commerce products. We'll create a single card
+A product list is needed to give an overview of a company’s goods.
+Easy to build it by listing items like this way
+````HTML
+
+````
 
 ### Step 1
 In order to display a list products we need a component **Products**. So let's make it `rafce` command
