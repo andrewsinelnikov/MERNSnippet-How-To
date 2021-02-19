@@ -29,6 +29,6 @@ Save product information in a separate file **Products -> data.js**
 
 <img src="img/1.png" width="100%"><br/>
 
-Add path for this component into **App.js**
+Since images for products a located in **public -> img** folder we set a path in the next way: for E_1.jpg image we set a path `'../../img/E_1.jpg'`
 
 <img src="img/2.png" width="100%"><br/>
