@@ -22,7 +22,7 @@ const Products = () => {
     )
 }
 ````
-
+What if the list were hundreds, thousands, or even millions of items? Then the list will be difficult to maintain and update. Reducing the amount of code is considered best programming practice. Therefore, we will save the list data separately, and allow the component that displays the list to efficiently do its work (in this manual, we will store product information locally)
 
 ### Step 1
 In order to display a list products we need a component **Products**. So let's make it `rafce` command
