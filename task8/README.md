@@ -115,3 +115,12 @@ Since we're working with a list add **key** for list items (here **ProductItem**
 Style **Products** component
 
 <img src="img/4.png" width="100%"><br/>
+
+**Here we are!**
+<img src="img/5.png" width="100%"><br/>
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task8/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
