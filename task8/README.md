@@ -110,3 +110,8 @@ Display each product with `map()` function
 Since we're working with a list add **key** for list items (here **ProductItem**)
 
 <img src="img/3.png" width="100%"><br/>
+
+### Step 2
+Style **Products** component
+
+<img src="img/4.png" width="100%"><br/>
