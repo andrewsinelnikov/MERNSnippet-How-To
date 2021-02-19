@@ -103,4 +103,6 @@ Import data into **Products**
     import { storeProducts } from './data';
 ````
 
+Display each product with `map()` function
+
 <img src="img/2.png" width="100%"><br/>
