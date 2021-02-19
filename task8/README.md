@@ -106,3 +106,7 @@ Import data into **Products**
 Display each product with `map()` function
 
 <img src="img/2.png" width="100%"><br/>
+
+Since we're working with a list add **key** for list items (here **ProductItem**)
+
+<img src="img/3.png" width="100%"><br/>
