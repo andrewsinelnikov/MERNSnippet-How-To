@@ -15,3 +15,4 @@ New article every Thursday
 * [Close Menu When Clicking OUTSIDE](task6/README.md)
 * [Stick a FOOTER To Bottom Of The Webpage](task2/README.md)
 * [Create a Product CARD](task7/README.md)
+* [Render Product LIST](task8/README.md)
