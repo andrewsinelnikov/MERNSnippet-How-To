@@ -16,4 +16,4 @@ New article every Thursday
 * [Stick a FOOTER to Bottom of the Webpage](task2/README.md)
 * [Create a Product CARD](task7/README.md)
 * [Render Product LIST](task8/README.md)
-* [Make a Contact Form with a Map](task9/README.md)
+* [Make a Contact FORM with a MAP](task9/README.md)
