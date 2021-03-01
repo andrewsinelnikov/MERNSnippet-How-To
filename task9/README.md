@@ -13,3 +13,5 @@ Our goal to get a page, as shown in the illustration below
 ### Step 1
 Add **Contact** folder for the required components in **pages** folder and create main component for this page
 <img src="img/2.png" width="100%"><br/>
+Add a route for the page
+<img src="img/3.png" width="100%"><br/>
