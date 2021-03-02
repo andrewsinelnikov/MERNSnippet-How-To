@@ -20,16 +20,6 @@ And some style for the page in **Contact.module.css**
 
 ### Step 2 (Map display)
 * Create component **ContactMap** to show map
-  <img src="img/4.png" width="100%"><br/>
-  and import into **Contact** component
   <img src="img/5.png" width="100%"><br/>
-
-* Install @react-google-maps/api to your app with command
-  `npm i -S @react-google-maps/api`
-  and import needed elements from that library
+  and import into **Contact** component
   <img src="img/6.png" width="100%"><br/>
-
-* Style your map and give required position
-  <img src="img/7.png" width="100%"><br/>
-* In order to use Google Maps API you need API key. [How to get an API key](https://developers.google.com/maps/documentation/javascript/adding-a-google-map#step_3_get_an_api_key)
-* 
