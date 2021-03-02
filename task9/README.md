@@ -15,3 +15,7 @@ Add **Contact** folder for the required components in **pages** folder and creat
 <img src="img/2.png" width="100%"><br/>
 Add a route for the page
 <img src="img/3.png" width="100%"><br/>
+
+### Step 2 (Map display)
+* Create component **ContactMap** to show map
+  <img src="img/4.png" width="100%"><br/>
