@@ -23,3 +23,8 @@ And some style for the page in **Contact.module.css**
   <img src="img/5.png" width="100%"><br/>
   and import into **Contact** component
   <img src="img/6.png" width="100%"><br/>
+
+* Choose or enter needed location on [Google Maps](https://maps.google.com/)
+  <img src="img/7.png" width="100%"><br/>
+  Click **Share or embed map** on **Menu** and from **Embed a map** tab copy html code
+  <img src="img/8.png" width="100%"><br/>
