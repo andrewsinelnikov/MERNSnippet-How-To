@@ -26,3 +26,6 @@ Add a route for the page
   `npm i -S @react-google-maps/api`
   and import needed elements from that library
   <img src="img/6.png" width="100%"><br/>
+
+* Style your map and give required position
+  <img src="img/7.png" width="100%"><br/>
