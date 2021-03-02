@@ -19,3 +19,5 @@ Add a route for the page
 ### Step 2 (Map display)
 * Create component **ContactMap** to show map
   <img src="img/4.png" width="100%"><br/>
+  and import into **Contact** component
+  <img src="img/5.png" width="100%"><br/>
