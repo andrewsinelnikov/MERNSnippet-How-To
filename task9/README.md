@@ -29,3 +29,5 @@ Add a route for the page
 
 * Style your map and give required position
   <img src="img/7.png" width="100%"><br/>
+* In order to use Google Maps API you need API key. [How to get an API key](https://developers.google.com/maps/documentation/javascript/adding-a-google-map#step_3_get_an_api_key)
+* 
