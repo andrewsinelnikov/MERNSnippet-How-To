@@ -21,3 +21,8 @@ Add a route for the page
   <img src="img/4.png" width="100%"><br/>
   and import into **Contact** component
   <img src="img/5.png" width="100%"><br/>
+
+* Install @react-google-maps/api to your app with command
+  `npm i -S @react-google-maps/api`
+  and import needed elements from that library
+  <img src="img/6.png" width="100%"><br/>
