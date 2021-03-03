@@ -37,4 +37,7 @@ And some style for the page in **Contact.module.css**
 * Create component **ContactForm** and import into **Contact** <br/>
   <img src="img/11.png" width="100%"><br/>
   <img src="img/12.png" width="100%"><br/>
-  
+
+* Give structure to the form
+  <img src="img/13.png" width="100%"><br/>
+  <img src="img/14.png" width="100%"><br/>
