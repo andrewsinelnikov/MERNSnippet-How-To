@@ -18,7 +18,7 @@ Add a route for the page
 And some style for the page in **Contact.module.css**
 <img src="img/4.png" width="100%"><br/>
 
-### Step 2 (Map display)
+### Step 2 (Map section)
 * Create component **ContactMap** to show map
   <img src="img/5.png" width="100%"><br/>
   and import into **Contact** component
@@ -32,3 +32,9 @@ And some style for the page in **Contact.module.css**
   <img src="img/9.png" width="100%"><br/>
   Style the frame<br/>
   <img src="img/10.png" width="100%"><br/>
+
+### Step 3 (Form section)
+* Create component **ContactForm** and import into **Contact** <br/>
+  <img src="img/11.png" width="100%"><br/>
+  <img src="img/12.png" width="100%"><br/>
+  
