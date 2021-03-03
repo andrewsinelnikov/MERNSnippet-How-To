@@ -26,5 +26,7 @@ And some style for the page in **Contact.module.css**
 
 * Choose or enter needed location on [Google Maps](https://maps.google.com/)
   <img src="img/7.png" width="100%"><br/>
-  Click **Share or embed map** on **Menu** and from **Embed a map** tab copy html code
+  Click **Share or embed map** on **Menu** and from **Embed a map** tab copy html code<br />
   <img src="img/8.png" width="100%"><br/>
+  Paste the code into **ContactMap.js**<br/>
+  <img src="img/9.png" width="100%"><br/>
