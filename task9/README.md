@@ -30,3 +30,5 @@ And some style for the page in **Contact.module.css**
   <img src="img/8.png" width="100%"><br/>
   Paste the code into **ContactMap.js**<br/>
   <img src="img/9.png" width="100%"><br/>
+  Style the frame<br/>
+  <img src="img/10.png" width="100%"><br/>
