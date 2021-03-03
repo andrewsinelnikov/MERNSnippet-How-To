@@ -48,6 +48,7 @@ And some style for the page in **Contact.module.css**
   <img src="img/17.png" width="100%"><br/>
 
 **You've done it! 🎉**
+How to handle form events? [Read the following article](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/task10/README.md)
 
 Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task9/src)
 
