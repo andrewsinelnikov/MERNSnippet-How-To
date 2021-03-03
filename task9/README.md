@@ -41,3 +41,8 @@ And some style for the page in **Contact.module.css**
 * Give structure to the form
   <img src="img/13.png" width="100%"><br/>
   <img src="img/14.png" width="100%"><br/>
+  
+  Style the form <br />
+  <img src="img/15.png" width="100%"><br/>
+  <img src="img/16.png" width="100%"><br/>
+  <img src="img/17.png" width="100%"><br/>
