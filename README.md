@@ -17,3 +17,4 @@ New article every Thursday
 * [Create a Product CARD](task7/README.md)
 * [Render Product LIST](task8/README.md)
 * [Make a Contact FORM with a MAP](task9/README.md)
+* [Make a Contact FORM (HANDLING Events)](task10/README.md)
