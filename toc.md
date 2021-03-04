@@ -10,3 +10,4 @@
 * Create a Product CARD
 * Render Product LIST
 * Make a Contact FORM with a MAP
+* Make a Contact FORM (HANDLING Events)
