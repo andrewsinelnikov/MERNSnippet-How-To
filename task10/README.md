@@ -42,16 +42,17 @@ Set the value for each element <br />
 Changing form data
 * Add event handler function 
 <img src="img/2.png" width="100%"><br/>
-* Add  the onChange attribute for each element that needed to be changed and set event  handler for it
+* Add  the `onChange` attribute for each element that needed to be changed and set event handler for it
 <img src="img/3.png" width="100%"><br/>
 
 ### Step 3
 Submiting form
 * Add event handler function 
 <img src="img/5.png" width="100%"><br/>
+* Add  the `onSubmit` attribute for the form and set event handler for it
+<img src="img/6.png" width="100%"><br/>
 
-
-**You have a contact form! 🎉**
+**You contact form works! 🎉**
 
 Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task10/src)
 
