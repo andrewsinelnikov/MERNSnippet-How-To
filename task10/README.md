@@ -6,7 +6,7 @@
 How make a contact form with a map? [Read the previous article](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/task9/README.md)
 
 ### Description
-Forms
+Forms are usually assigned for data entry. Having received some information from the user, we want to use it. To do this, you need to add actions that will handle events made by the user or the browser.
 
 **You have a contact form! 🎉**
 
