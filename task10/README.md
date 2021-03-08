@@ -8,6 +8,10 @@ How make a contact form with a map? [Read the previous article](https://github.c
 ### Description
 Forms are usually assigned for data entry. Having received some information from the user, we want to use it. To do this, you need to add actions that will handle events made by the user or the browser.
 
+**General way to add events to an element:**
+> ````Javascript 
+> <element onEvent={event_handler}>````
+
 **You have a contact form! 🎉**
 
 Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task10/src)
