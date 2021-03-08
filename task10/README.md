@@ -49,6 +49,11 @@ Changing form data
 Submiting form
 * Add event handler function 
 <img src="img/5.png" width="100%"><br/>
+where we<br />
+  **17 line** - prevent default behavior, <br />
+  **18 line** - use form data,<br />
+  **19 line** - reset the data in the form<br />
+
 * Add  the `onSubmit` attribute for the form and set event handler for it
 <img src="img/6.png" width="100%"><br/>
 
