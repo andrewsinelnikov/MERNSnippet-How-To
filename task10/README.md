@@ -10,7 +10,12 @@ Forms are usually assigned for data entry. Having received some information from
 
 **General way to add events to an element:**
 > ````Javascript 
-> <element onEvent={event_handler}>````
+> <element onEvent={event_handler}>
+> ````
+where 
+  `element` - React element, <br />
+  `onEvent` - an attribute that describes the action took place,
+  `event_handler` - a function that handles user or browser action
 
 **You have a contact form! 🎉**
 
