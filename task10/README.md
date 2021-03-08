@@ -19,7 +19,7 @@ where <br />
   
 Some events <br />
 | Event | Description |
-|______|______________|
+|-------|-------------|
 | onClick | the user clicks on an element |
 | onChange | the content of a form element, or the state have changed |
 | onSubmit | a form is submitted |
