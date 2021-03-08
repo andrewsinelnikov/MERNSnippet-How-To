@@ -40,6 +40,8 @@ Store form data in the component state with [useState hook](https://reactjs.org/
 Changing form data
 * Add event handler function 
 <img src="img/2.png" width="100%"><br/>
+* Add  the onChange attribute for each element that needed to be changed and set event  handler for it
+<img src="img/3.png" width="100%"><br/>
 
 **You have a contact form! 🎉**
 
