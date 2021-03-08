@@ -32,6 +32,11 @@ Some events <br />
 [List of HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
 
+### Step 1
+Store form data in the component state with [useState hook](https://reactjs.org/docs/hooks-state.html)
+<img src="img/1.png" width="100%"><br/>
+
+
 **You have a contact form! 🎉**
 
 Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task10/src)
