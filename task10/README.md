@@ -51,7 +51,8 @@ Submiting form
 <img src="img/5.png" width="100%"><br/>
 where we<br />
   **17 line** - prevent default behavior, <br />
-  **18 line** - use form data,<br />
+  **18 line** - use form data (for simplicity, here we output the data to the console),<br />
+  If your application is deployed on **Netlify**, please, read [how to integrate it](https://www.netlify.com/blog/2017/07/20/how-to-integrate-netlifys-form-handling-in-a-react-app/)
   **19 line** - reset the data in the form<br />
 
 * Add  the `onSubmit` attribute for the form and set event handler for it
