@@ -12,10 +12,22 @@ Forms are usually assigned for data entry. Having received some information from
 > ````Javascript 
 > <element onEvent={event_handler}>
 > ````
-where 
+where <br />
   `element` - React element, <br />
-  `onEvent` - an attribute that describes the action took place,
-  `event_handler` - a function that handles user or browser action
+  `onEvent` - an attribute that describes the action took place,<br />
+  `event_handler` - a function that handles user or browser action<br />
+  
+Some events <br />
+| Event | Description |
+|______|______________|
+| onClick | the user clicks on an element |
+|______|______________|
+| onChange | the content of a form element, or the state have changed |
+|______|______________|
+| onSubmit | a form is submitted |
+|______|______________|
+
+
 
 **You have a contact form! 🎉**
 
