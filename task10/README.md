@@ -21,12 +21,10 @@ Some events <br />
 | Event | Description |
 |______|______________|
 | onClick | the user clicks on an element |
-|______|______________|
 | onChange | the content of a form element, or the state have changed |
-|______|______________|
 | onSubmit | a form is submitted |
-|______|______________|
 
+[List of HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 
 
 **You have a contact form! 🎉**
