@@ -37,7 +37,8 @@ Store form data in the component state with [useState hook](https://reactjs.org/
 <img src="img/1.png" width="100%"><br/>
 
 ### Step 2
-Store form data in the component state with [useState hook](https://reactjs.org/docs/hooks-state.html) and set initial values
+Changing form data
+* Add event handler function 
 <img src="img/2.png" width="100%"><br/>
 
 **You have a contact form! 🎉**
