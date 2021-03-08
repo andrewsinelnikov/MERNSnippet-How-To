@@ -33,9 +33,12 @@ Some events <br />
 
 
 ### Step 1
-Store form data in the component state with [useState hook](https://reactjs.org/docs/hooks-state.html)
+Store form data in the component state with [useState hook](https://reactjs.org/docs/hooks-state.html) and set initial values
 <img src="img/1.png" width="100%"><br/>
 
+### Step 2
+Store form data in the component state with [useState hook](https://reactjs.org/docs/hooks-state.html) and set initial values
+<img src="img/2.png" width="100%"><br/>
 
 **You have a contact form! 🎉**
 
