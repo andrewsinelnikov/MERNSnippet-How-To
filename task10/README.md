@@ -35,6 +35,8 @@ Some events <br />
 ### Step 1
 Store form data in the component state with [useState hook](https://reactjs.org/docs/hooks-state.html) and set initial values
 <img src="img/1.png" width="100%"><br/>
+Set the value for each element <br />
+<img src="img/4.png" width="100%"><br/>
 
 ### Step 2
 Changing form data
@@ -46,7 +48,7 @@ Changing form data
 ### Step 3
 Submiting form
 * Add event handler function 
-<img src="img/4.png" width="100%"><br/>
+<img src="img/5.png" width="100%"><br/>
 
 
 **You have a contact form! 🎉**
