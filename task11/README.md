@@ -23,3 +23,8 @@ Give html structure and style the component<br />
 <img src="img/3.png" width="100%"><br/>
 <img src="img/4.png" width="100%"><br/>
 
+### Step 4
+Export your component into each page<br />
+<img src="img/5.png" width="100%"><br/>
+<img src="img/6.png" width="100%"><br/>
+<img src="img/7.png" width="100%"><br/>
