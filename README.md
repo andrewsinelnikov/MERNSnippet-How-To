@@ -10,6 +10,7 @@ New article every Thursday
 
 * [Create Your Own FIRST React App](task3/README.md)
 * [Get Top of the Page On Every TRANSITION](task1/README.md)
+* [Write a Function Component](task11/README.md)
 * [Build a Responsive NAVBAR in React](task4/README.md)
 * [Prevent SCROLL When the Nav Menu Is Open](task5/README.md)
 * [Close Menu When Clicking OUTSIDE](task6/README.md)
