@@ -34,5 +34,9 @@ Change title for each page with **props**
 > **props** is an object that represents function arguments that is being used for passing data from one component to another
 <img src="img/8.png" width="100%"><br/>
 <img src="img/9.png" width="100%"><br/>
+
+Simplify it with destructuring
 <img src="img/10.png" width="100%"><br/>
 <img src="img/11.png" width="100%"><br/>
+<img src="img/12.png" width="100%"><br/>
+<img src="img/13.png" width="100%"><br/>
