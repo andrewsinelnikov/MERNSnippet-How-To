@@ -28,3 +28,7 @@ Export your component into each page<br />
 <img src="img/5.png" width="100%"><br/>
 <img src="img/6.png" width="100%"><br/>
 <img src="img/7.png" width="100%"><br/>
+
+### Step 5
+Change title for each page with **props**
+> **Function component** is a Javascript function which return React element describing what should appear on the screen
