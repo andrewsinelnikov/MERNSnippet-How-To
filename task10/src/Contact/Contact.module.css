@@ -1,8 +1,11 @@
 .contact {
   max-width: 1100px;
+  margin: 5rem auto 1.5rem;
+}
+
+.contact__info {
   display: flex;
   justify-content: center;
-  margin: 5rem auto 1.5rem;
 }
 
 .contact__form,
