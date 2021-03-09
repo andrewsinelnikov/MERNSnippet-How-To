@@ -17,3 +17,9 @@ Use the command **rafce** to create a function component and include a file with
 > **Function component** is a Javascript function which return React element describing what should appear on the screen
 
 <img src="img/2.png" width="100%"><br/>
+
+### Step 3
+Give html structure and style the component<br />
+<img src="img/3.png" width="100%"><br/>
+<img src="img/4.png" width="100%"><br/>
+
