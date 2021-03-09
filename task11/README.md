@@ -40,3 +40,11 @@ Simplify it with destructuring
 <img src="img/11.png" width="100%"><br/>
 <img src="img/12.png" width="100%"><br/>
 <img src="img/13.png" width="100%"><br/>
+
+**You component is ready! 🎉**
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task11/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
