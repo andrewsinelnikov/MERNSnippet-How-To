@@ -31,4 +31,8 @@ Export your component into each page<br />
 
 ### Step 5
 Change title for each page with **props**
-> **Function component** is a Javascript function which return React element describing what should appear on the screen
+> **props** is an object that represents function arguments that is being used for passing data from one component to another
+<img src="img/8.png" width="100%"><br/>
+<img src="img/9.png" width="100%"><br/>
+<img src="img/10.png" width="100%"><br/>
+<img src="img/11.png" width="100%"><br/>
