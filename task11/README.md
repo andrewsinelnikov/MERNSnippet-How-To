@@ -13,5 +13,7 @@ Add folder for your new component (we'll call it **Title**) into **components** 
 <img src="img/1.png" width="100%"><br/>
 
 ### Step 2
-Use the command **rafce** to create a function component and include a file with future styles
+Use the command **rafce** to create a function component and include a file with future styles <br />
+> **Function component** is a Javascript function which return React element describing what should appear on the screen
+
 <img src="img/2.png" width="100%"><br/>
