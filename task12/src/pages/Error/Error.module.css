@@ -1,0 +1,29 @@
+.error {
+  max-width: 1100px;
+  margin: 5rem auto 1.5rem;
+  text-align: center;
+}
+
+.error p {
+  font-size: 2rem;
+  color: red;
+}
+
+.error__redirect {
+  color: #f77516;
+  font-size: 1rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.5rem 2rem;
+  margin: 2rem 0.25rem;
+  cursor: pointer;
+  background: transparent;
+  border: 0.05rem solid #f77516;
+  border-radius: 0.5rem;
+  transition: all 0.5s ease-in-out;
+}
+
+.error__redirect:hover {
+  color: #fff;
+  background: #f77516;
+}
