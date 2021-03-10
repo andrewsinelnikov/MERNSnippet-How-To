@@ -20,3 +20,11 @@ Export **Error** page into **App.js** and a kind of "fallback" route, to catch 4
 <img src="img/4.png" width="100%"><br/>
 
 [No Match (404)](https://reactrouter.com/web/example/no-match)
+
+**User stay with you! 🎉**
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task12/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
