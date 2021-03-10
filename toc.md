@@ -3,6 +3,7 @@
 
 * Create Your Own FIRST React App
 * Write a Function Component
+* Redirect Any Invalid URLs
 * Get Top Of The Page On Every TRANSITION
 * Built a Responsive NAVBAR in React
 * Prevent SCROLL When The Nav Menu Is Open
