@@ -10,6 +10,7 @@ New article every Thursday
 
 * [Create Your Own FIRST React App](task3/README.md)
 * [Write a Function Component](task11/README.md)
+* [Style React Components](task13/README.md)
 * [Redirect Any Invalid URLs](task12/README.md)
 * [Get Top of the Page On Every TRANSITION](task1/README.md)
 * [Build a Responsive NAVBAR in React](task4/README.md)
