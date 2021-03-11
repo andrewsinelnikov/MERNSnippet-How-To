@@ -20,6 +20,7 @@ Use the command **rafce** to create a function component and include a file with
 
 ### Step 3
 Give html structure and style the component<br />
+[How to style React components](https://github.com/andrewsinelnikov/ReactSnippet-How-To/edit/main/task13/README.md) <br />
 <img src="img/3.png" width="100%"><br/>
 <img src="img/4.png" width="100%"><br/>
 
