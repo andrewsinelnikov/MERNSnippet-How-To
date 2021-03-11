@@ -30,3 +30,12 @@ Create your styled components in separate file
 <img src="img/7.png" width="100%"><br/>
 Export it into your component and use
 <img src="img/8.png" width="100%"><br/>
+
+**You've got it! 🎉**<br />
+It's up to you what way to use
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task13/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
