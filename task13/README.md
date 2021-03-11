@@ -26,3 +26,7 @@ Export it into your component and use
 ### Styled-Components
 Install styled-components to your application
 <img src="img/6.png" width="100%"><br/>
+Create your styled components in separate file
+<img src="img/7.png" width="100%"><br/>
+Export it into your component and use
+<img src="img/8.png" width="100%"><br/>
