@@ -1,4 +1,5 @@
-# ReactSnippet: How To
+# MERNSnippet: How To
+# (MongoDB, Express, React, Node)
 
 ## Solve Common Development Issues
 
