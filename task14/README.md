@@ -1,10 +1,9 @@
 # MERNSnippet: How To
-
-## Express Setup
 ---
+## Express Setup
 
 ### Description
-> [Express](http://expressjs.com/) is a flexible web framework for Node.js.
+> [Express](http://expressjs.com/) is a flexible web framework for [Node.js](https://nodejs.org/) <br />
 This guide will help you get started comfortably with it.
 
 ### Step 1
