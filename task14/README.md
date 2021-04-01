@@ -23,3 +23,7 @@ Set the folder structure
 Install needed dependencies for backend
 <img src="img/2.png" width="100%"><br/>
 <img src="img/3.png" width="100%"><br/>
+
+### Step 3
+Create front-ent part of the project. Run the next one in **client** folder
+<img src="img/4.png" width="100%"><br/>
