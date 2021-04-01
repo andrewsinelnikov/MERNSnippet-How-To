@@ -18,3 +18,7 @@ Change the main field there for the entry point of the program <br />
 `"main": "server.js"`<br />
 Set the folder structure
 <img src="img/1.png" width="100%"><br/>
+
+### Step 2
+Install needed dependencies for backend
+<img src="img/2.png" width="100%"><br/>
