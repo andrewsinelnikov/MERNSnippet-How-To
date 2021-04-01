@@ -1,6 +1,7 @@
 # MERNSnippet: How To
-# (MongoDB, Express, React, Node)
+## (MongoDB, Express, React, Node)
 
+### React
 * Create Your Own FIRST React App
 * Write a Function Component
 * Style React Components
@@ -14,4 +15,6 @@
 * Render Product LIST
 * Make a Contact FORM with a MAP
 * Make a Contact FORM (HANDLING Events)
-* [Express Setup](task14/README.md)
+* 
+### Node, Express, MongoDB
+* Express Setup
