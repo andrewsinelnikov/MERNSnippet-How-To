@@ -27,3 +27,7 @@ Install needed dependencies for backend
 ### Step 3
 Create front-ent part of the project. Run the next one in **client** folder
 <img src="img/4.png" width="100%"><br/>
+
+### Step 4
+Create **server.js** file in **server** folder. It will be the entry point of the project
+<img src="img/5.png" width="100%"><br/>
