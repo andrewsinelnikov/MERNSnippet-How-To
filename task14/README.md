@@ -32,4 +32,6 @@ Create front-ent part of the project. Run the next one in **client** folder
 Create **server.js** file in **server** folder. It will be the entry point of the project
 <img src="img/5.png" width="100%"><br/>
 where ` require('express') ` - includes **express** module, ` app ` - an express application object, <br />
-`app.listen()` - the app starts a server and listens on port 5000 for connections
+`app.listen()` - the app starts a server and listens on port 5000 for connections<br />
+Add **.env** file to the root of the project and set a port
+<img src="img/6.png" width="100%"><br/>
