@@ -13,5 +13,8 @@ Set up a **package.json** for your project.
 
 Run the next command in **Terminal**<br />
 `npm init -y` <br />
-where ` -y ` helps to generate it without any questions
+where ` -y ` helps to generate it without any questions.
+Change the main field there for the entry point of the program <br />
+`"main": "server.js"`<br />
+Set the folder structure
 <img src="img/1.png" width="100%"><br/>
