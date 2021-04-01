@@ -35,3 +35,5 @@ where ` require('express') ` - includes **express** module, ` app ` - an express
 `app.listen()` - the app starts a server and listens on port 5000 for connections<br />
 Add **.env** file to the root of the project and set a port
 <img src="img/6.png" width="100%"><br/>
+Bring it into **server.js** and tun the server
+<img src="img/7.png" width="100%"><br/>
