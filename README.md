@@ -1,14 +1,12 @@
 # MERNSnippet: How To
-# (MongoDB, Express, React, Node)
+## (MongoDB, Express, React, Node)
 
-## Solve Common Development Issues
+### Solve Common Development Issues
 
 New article every Thursday
 
------
-
 [Table of Contents](toc.md)
-
+### React
 * [Create Your Own FIRST React App](task3/README.md)
 * [Write a Function Component](task11/README.md)
 * [Style React Components](task13/README.md)
@@ -23,5 +21,5 @@ New article every Thursday
 * [Make a Contact FORM with a MAP](task9/README.md)
 * [Make a Contact FORM (HANDLING Events)](task10/README.md)
 
-
+### Node, Express, MongoDB
 * [Express Setup](task14/README.md)
