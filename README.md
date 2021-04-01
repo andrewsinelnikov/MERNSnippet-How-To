@@ -1,9 +1,7 @@
 # MERNSnippet: How To
 ## (MongoDB, Express, React, Node)
 
-### Solve Common Development Issues
-
-New article every Thursday
+### Solve Common Development Issues. New article every Thursday
 
 [Table of Contents](toc.md)
 ### React
