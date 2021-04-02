@@ -40,5 +40,6 @@ Bring it into **server.js** and tun the server
 
 ### Step 5
 Configure **Git** to ignore files you don't want to check in to **GitHub**<br />
-Create one **.gitignore** file (for both backend and front-end)  in your repository's root directory to tell Git which files and directories to ignore when you make a commit. 
+Add one **.gitignore** file (for both backend and front-end) in your repository's root directory to tell Git which files and directories to ignore when you make a commit. 
+Copy everything from **.gitignore** in the client side and paste in there
 <img src="img/8.png" width="100%"><br/>
