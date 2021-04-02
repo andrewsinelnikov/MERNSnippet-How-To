@@ -37,3 +37,8 @@ Add **.env** file to the root of the project and set a port
 <img src="img/6.png" width="100%"><br/>
 Bring it into **server.js** and tun the server
 <img src="img/7.png" width="100%"><br/>
+
+### Step 5
+Configure **Git** to ignore files you don't want to check in to **GitHub**<br />
+Create one **.gitignore** file (for both backend and front-end)  in your repository's root directory to tell Git which files and directories to ignore when you make a commit. 
+<img src="img/8.png" width="100%"><br/>
