@@ -50,3 +50,5 @@ Run the following commands to delete **.gitignore** from client side
 Delete **.gitignore** from **client** directory.
 Create **git** repository in the root directory
 <img src="img/11.png" width="100%"><br/>
+Add **.env** file into **.gitignore**
+<img src="img/12.png" width="100%"><br/>
