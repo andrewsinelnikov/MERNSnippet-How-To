@@ -45,3 +45,6 @@ Copy everything from **.gitignore** in the client side and paste in there
 <img src="img/8.png" width="100%"><br/>
 Change it
 <img src="img/9.png" width="100%"><br/>
+Run the following commands to delete **.gitignore** from client side
+<img src="img/10.png" width="100%"><br/>
+<img src="img/11.png" width="100%"><br/>
