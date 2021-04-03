@@ -52,3 +52,7 @@ Create **git** repository in the root directory
 <img src="img/11.png" width="100%"><br/>
 Add **.env** file into **.gitignore**
 <img src="img/12.png" width="100%"><br/>
+
+### Step 6
+Add some scripts into **package.json** for running your app
+<img src="img/13.png" width="100%"><br/>
