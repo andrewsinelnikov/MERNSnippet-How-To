@@ -58,4 +58,5 @@ Add some scripts into **package.json** for running your app
 <img src="img/13.png" width="100%"><br/>
 script `" start ":" node server / server.js "` is the command that runs your app on the server where it's deployed (for example, Heroku);<br />
 `"server": "nodemon server/server.js"` - runs your server side;<br />
-`"client": "npm start --prefix client"` - runs your front-end side;<br />
+`"client": "npm start --prefix client"` - runs your client side;<br />
+`"dev": "concurrently \"npm run server\" \"npm run client\""` - runs both backend and front-end parts<br />
