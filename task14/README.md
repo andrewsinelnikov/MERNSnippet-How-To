@@ -64,3 +64,11 @@ script `" start ":" node server / server.js "` is the command that runs your app
 ### Step 7
 Run your project
 <img src="img/14.png" width="100%"><br/>
+
+**Congratulations! 🎉 The place is ready for your best dance in web development 🕺**
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task14/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
