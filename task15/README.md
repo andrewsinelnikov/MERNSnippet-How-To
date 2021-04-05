@@ -14,7 +14,7 @@ or [Sign In](https://account.mongodb.com/account/login) if you already have
 <img src="img/2.png" width="100%"><br/>
 
 ### Step 2
-Create a project
-![3](img/3.png) ![4](img/4.png)
+Create a project <br />
+![3](img/3.png) ![4](img/4.png) <br />
 Name your project
-<img src="img/5.png" width="100%"><br/>
+![5](img/5.png)
