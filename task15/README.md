@@ -12,3 +12,9 @@ Sign Up MongoDB account [here](https://account.mongodb.com/account/register)
 <img src="img/1.png" width="100%"><br/>
 or [Sign In](https://account.mongodb.com/account/login) if you already have
 <img src="img/2.png" width="100%"><br/>
+
+### Step 2
+Create a project
+<img src="img/3.png" width="100%"><br/>
+<img src="img/4.png" width="100%"><br/>
+<img src="img/5.png" width="100%"><br/>
