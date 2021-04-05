@@ -16,5 +16,5 @@ or [Sign In](https://account.mongodb.com/account/login) if you already have
 ### Step 2
 Create a project <br />
 ![3](img/3.png) ![4](img/4.png) <br />
-Name your project
-![5](img/5.png)
+Name your project <br />
+![5](img/5.png) <br />
