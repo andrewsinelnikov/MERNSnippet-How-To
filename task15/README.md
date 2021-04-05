@@ -25,6 +25,8 @@ Create a cluster for the project <br />
 and choose cloud provider, region 
 
 ### Step 4
-Create a cluster for the project <br />
-![6](img/6.png) <br />
-and choose cloud provider, region 
+Add a database user <br />
+![7](img/7.png) <br />
+![8](img/8.png) <br />
+and set up name, password, permissions <br />
+<img src="img/9.png" width="100%"><br/>
