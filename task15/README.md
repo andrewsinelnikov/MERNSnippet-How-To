@@ -3,7 +3,7 @@
 ## Set Up MongoDB Atlas
 
 ### Description
-> [Express](http://expressjs.com/) is a flexible web framework for [Node.js](https://nodejs.org/) <br />
+> [MongoDB](https://www.mongodb.com/) is a document-based, distributed database for the cloud <br />
 
 This guide will give you a good start on getting comfortable with it.
 
