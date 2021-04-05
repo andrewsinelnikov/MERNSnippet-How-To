@@ -18,3 +18,7 @@ Create a project <br />
 ![3](img/3.png) ![4](img/4.png) <br />
 Name your project <br />
 ![5](img/5.png) <br />
+
+### Step 3
+Create a cluster for the project <br />
+![6](img/6.png) <br />
