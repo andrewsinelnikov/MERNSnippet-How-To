@@ -22,3 +22,9 @@ Name your project <br />
 ### Step 3
 Create a cluster for the project <br />
 ![6](img/6.png) <br />
+and choose cloud provider, region 
+
+### Step 4
+Create a cluster for the project <br />
+![6](img/6.png) <br />
+and choose cloud provider, region 
