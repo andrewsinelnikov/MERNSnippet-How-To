@@ -30,3 +30,9 @@ Add a database user <br />
 ![8](img/8.png) <br />
 and set up name, password, permissions <br />
 <img src="img/9.png" width="100%"><br/>
+
+### Step 5
+Add IP address <br />
+![10](img/10.png) <br />
+and allow access from anywhere <br />
+<img src="img/11.png" width="100%"><br/>
