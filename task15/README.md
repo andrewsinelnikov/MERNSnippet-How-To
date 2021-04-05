@@ -41,5 +41,5 @@ and allow access from anywhere <br />
 Connect your app to the cluster <br />
 <img src="img/12.png" width="100%"><br/>
 <img src="img/13.png" width="100%"><br/>
-and allow access from anywhere <br />
+and copy connection string for future use <br />
 <img src="img/14.png" width="100%"><br/>
