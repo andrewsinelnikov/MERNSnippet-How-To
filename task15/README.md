@@ -1,6 +1,6 @@
 # MERNSnippet: How To
 ---
-## Set up MongoDB Atlas
+## Set Up MongoDB Atlas
 
 ### Description
 > [MongoDB](https://www.mongodb.com/) is a document-based, distributed database for the cloud <br />
@@ -8,7 +8,7 @@
 MongoDB Atlas helps host and manage data in the cloud
 
 ### Step 1
-Set up a **package.json** for your project. 
+Sign Up MongoDB account [here] or [Sign In] if you already have
 >**package.json** - gives information that allows to identify the project as well as handle the project's dependencies
 
 Run the next command in **Terminal**<br />
