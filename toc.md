@@ -18,3 +18,4 @@
 
 ### Node, Express, MongoDB
 * Express Setup
+* Set Up MongoDB Atlas
