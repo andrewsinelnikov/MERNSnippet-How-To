@@ -43,3 +43,9 @@ Connect your app to the cluster <br />
 <img src="img/13.png" width="100%"><br/>
 and copy connection string for future use <br />
 <img src="img/14.png" width="100%"><br/>
+
+**Congratulations! 🎉** MongoDB is waiting for your data 🧐
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
