@@ -36,3 +36,10 @@ Add IP address <br />
 ![10](img/10.png) <br />
 and allow access from anywhere <br />
 <img src="img/11.png" width="100%"><br/>
+
+### Step 6
+Connect your app to the cluster <br />
+<img src="img/12.png" width="100%"><br/>
+<img src="img/13.png" width="100%"><br/>
+and allow access from anywhere <br />
+<img src="img/14.png" width="100%"><br/>
