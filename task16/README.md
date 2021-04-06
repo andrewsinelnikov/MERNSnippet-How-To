@@ -34,4 +34,9 @@ where `{useNewUrlParser: true, // others }` is an object with required settings
 ### Step 6
 Add case when somethign is wrong with connection<br/>
 ![8](img/8.png) <br />
+
+### Step 7
+Export your function<br/>
+![9](img/9.png) <br />
+
 <img src="img/1.png" width="100%"><br/>
