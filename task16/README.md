@@ -30,4 +30,8 @@ In **db.js** import **.env**<br/>
 Create a function for connection to database<br/>
 ![7](img/7.png) <br />
 where `{useNewUrlParser: true, // others }` is an object with required settings
+
+### Step 6
+Add case when somethign is wrong with connection<br/>
+![8](img/8.png) <br />
 <img src="img/1.png" width="100%"><br/>
