@@ -39,4 +39,8 @@ Add case when somethign is wrong with connection<br/>
 Export your function<br/>
 ![9](img/9.png) <br />
 
+### Step 8
+Bring into **server.js** your **connectDB** function and run it there<br/>
+![10](img/10.png) <br />
+
 <img src="img/1.png" width="100%"><br/>
