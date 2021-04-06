@@ -3,7 +3,7 @@
 ## Connect to MongoDB Using Mongoose
 
 ### Description
-> [Mongoose](https://mongoosejs.com/) is a library for representation data from the code ([Node.js](https://nodejs.org/)) in [MongoDB](https://mongodb.com/) <br />
+> [Mongoose](https://mongoosejs.com/) is a ODM-library (Object Data Modelling) for representation data from the code ([Node.js](https://nodejs.org/)) in [MongoDB](https://mongodb.com/) <br />
 
 MongoDB Atlas helps host and manage data in the cloud
 
