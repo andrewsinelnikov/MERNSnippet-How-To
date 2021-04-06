@@ -8,13 +8,17 @@
 Here we'll learn how to connect your application with database.
 
 ### Step 1
-Add **config** folder into your backend part and create **db.js** file there for connection with database
+Add **config** folder into your backend part and create **db.js** file there for connection with database <br/>
 ![1](img/1.png) <br />
 ![2](img/2.png) <br />
 ![3](img/3.png) <br />
 
 ### Step 2
-Import mongoose library
+Import mongoose library <br/>
 ![4](img/4.png) <br />
+
+### Step 3
+Bring your connection string into **.env** file (See [Set Up MongoDB Atlas](https://github.com/andrewsinelnikov/ReactSnippet-How-To/edit/main/task15/README.md) step 6)<br/>
+![5](img/5.png) <br />
 
 <img src="img/1.png" width="100%"><br/>
