@@ -29,4 +29,5 @@ In **db.js** import **.env**<br/>
 ### Step 5
 Create a function for connection to database<br/>
 ![7](img/7.png) <br />
+where `{useNewUrlParser: true, // others }` is an object with required settings
 <img src="img/1.png" width="100%"><br/>
