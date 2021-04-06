@@ -8,5 +8,7 @@
 Here we'll learn how to connect your application with database.
 
 ### Step 1
-Sign Up MongoDB account [here](https://account.mongodb.com/account/register) 
+Add **config** folder into your backend part and create **db.js** file there for connection with database
+![1](img/1.png) <br />
+![2](img/2.png) <br />
 <img src="img/1.png" width="100%"><br/>
