@@ -46,8 +46,13 @@ Bring into **server.js** your **connectDB** function and run it there<br/>
 ### Step 9
 Run your server<br/>
 ![11](img/11.png) <br />
-Here we go
+Here we go <br />
 ![12](img/12.png) <br />
 
+**Congratulations! 🎉** Your app is connected with a database 🛠️
 
-<img src="img/1.png" width="100%"><br/>
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task16/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
