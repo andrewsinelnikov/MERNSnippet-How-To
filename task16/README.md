@@ -22,9 +22,8 @@ Bring your connection string into **.env** file (See [Set Up MongoDB Atlas](http
 ![5](img/5.png) <br />
 And set your password there
 
-
 ### Step 4
-Bring your connection string into **.env** file (See [Set Up MongoDB Atlas](https://github.com/andrewsinelnikov/ReactSnippet-How-To/edit/main/task15/README.md) step 6)<br/>
-![5](img/5.png) <br />
-And set your password there
+In **db.js** import **.env**<br/>
+![6](img/6.png) <br />
+
 <img src="img/1.png" width="100%"><br/>
