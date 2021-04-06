@@ -12,4 +12,9 @@ Add **config** folder into your backend part and create **db.js** file there for
 ![1](img/1.png) <br />
 ![2](img/2.png) <br />
 ![3](img/3.png) <br />
+
+### Step 2
+Import mongoose library
+![4](img/4.png) <br />
+
 <img src="img/1.png" width="100%"><br/>
