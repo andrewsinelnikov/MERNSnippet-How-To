@@ -43,4 +43,11 @@ Export your function<br/>
 Bring into **server.js** your **connectDB** function and run it there<br/>
 ![10](img/10.png) <br />
 
+### Step 9
+Run your server<br/>
+![11](img/11.png) <br />
+Here we go
+![12](img/12.png) <br />
+
+
 <img src="img/1.png" width="100%"><br/>
