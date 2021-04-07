@@ -8,5 +8,6 @@
 This guide will teach you how to describe your data for [MongoDB](https://www.mongodb.com/) database.
 
 ### Step 1
-Add **config** folder into your backend part and create **db.js** file there for connection with database <br/>
+Add **models** folder into your backend part, create **Product.js** file there<br/>
+![1](img/1.png) <br />
 ![1](img/1.png) <br />
