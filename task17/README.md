@@ -3,9 +3,9 @@
 ## Build Models
 
 ### Description
-> [Models](https://mongoosejs.com/docs/models.html) are constructors compiled from [Schema](https://mongoosejs.com/docs/guide.html#definition). They are responsible for creating and reading documents from the underlying MongoDB database.<br />
+> [Models](https://mongoosejs.com/docs/models.html) are constructors for creating, reading and updating data from the underlying MongoDB database.<br/>
 
-Here we'll learn how to connect your application with database.
+This guide will teach you how to describe your data for [MongoDB](https://www.mongodb.com/) database.
 
 ### Step 1
 Add **config** folder into your backend part and create **db.js** file there for connection with database <br/>
