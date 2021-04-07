@@ -3,7 +3,7 @@
 ## Build Models
 
 ### Description
-> [Mongoose](https://mongoosejs.com/) is a ODM-library (Object Data Modelling) for representation data from the code ([Node.js](https://nodejs.org/)) in [MongoDB](https://mongodb.com/) <br />
+> [Models](https://mongoosejs.com/docs/models.html) are constructors compiled from [Schema](https://mongoosejs.com/docs/guide.html#definition). They are responsible for creating and reading documents from the underlying MongoDB database.<br />
 
 Here we'll learn how to connect your application with database.
 
