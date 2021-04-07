@@ -11,5 +11,9 @@ This guide will teach you how to describe your data for [MongoDB](https://www.mo
 Add **models** folder into your backend part, create **Product.js** file there<br/>
 ![1](img/1.png) <br />
 ![2](img/2.png) <br />
-And import **mongoose** library into **Product.js**
+And import **mongoose** library into **Product.js** <br />
 ![3](img/3.png) <br />
+
+### Step 2
+Define the [Schema](https://mongoosejs.com/docs/guide.html#definition)<br>
+![4](img/4.png) <br />
