@@ -1,0 +1,12 @@
+# MERNSnippet: How To
+---
+## Build Models
+
+### Description
+> [Mongoose](https://mongoosejs.com/) is a ODM-library (Object Data Modelling) for representation data from the code ([Node.js](https://nodejs.org/)) in [MongoDB](https://mongodb.com/) <br />
+
+Here we'll learn how to connect your application with database.
+
+### Step 1
+Add **config** folder into your backend part and create **db.js** file there for connection with database <br/>
+![1](img/1.png) <br />
