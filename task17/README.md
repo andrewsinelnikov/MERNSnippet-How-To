@@ -10,4 +10,6 @@ This guide will teach you how to describe your data for [MongoDB](https://www.mo
 ### Step 1
 Add **models** folder into your backend part, create **Product.js** file there<br/>
 ![1](img/1.png) <br />
-![1](img/1.png) <br />
+![2](img/2.png) <br />
+And import **mongoose** library into **Product.js**
+![3](img/3.png) <br />
