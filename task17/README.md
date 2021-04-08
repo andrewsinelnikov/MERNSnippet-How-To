@@ -39,3 +39,11 @@ Define the [Schema](https://mongoosejs.com/docs/guide.html#definition)<br>
 ### Step 3
 Export a Model<br />
 ![9](img/9.png) <br />
+
+**Congratulations! 🎉** MongoDB is waiting for your data 🏒
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task17/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
