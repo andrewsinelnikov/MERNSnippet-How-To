@@ -35,3 +35,7 @@ Define the [Schema](https://mongoosejs.com/docs/guide.html#definition)<br>
   Add all the required fields for your schema<br />
   ![8](img/8.png) <br />
   By default, Mongoose adds an `_id` property to your schema to distinguish each your item. Of course, you can define your own `_id`
+
+### Step 3
+Export a Model<br />
+![9](img/9.png) <br />
