@@ -23,3 +23,6 @@ Define the [Schema](https://mongoosejs.com/docs/guide.html#definition)<br>
   ![4](img/4.png) <br />
   2. Second way <br />
   ![5](img/5.png) <br />
+- Object definition. <br />
+  The general form is `keyName:SchemaType`, where **keyName** is a name of the property, **SchemaType** can include a type, a default value, or other info <br>
+  ![6](img/6.png) <br />
