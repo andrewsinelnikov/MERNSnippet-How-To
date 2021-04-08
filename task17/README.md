@@ -29,4 +29,6 @@ Define the [Schema](https://mongoosejs.com/docs/guide.html#definition)<br>
   **SchemaType** can be one of the following values: `String`, `Number`, `Date`, `Buffer`, `Boolean`, `Mixed`, `ObjectId`, `Array`, `Decimal128`, `Map`.<br/>
   In addition to the type property, you can specify [additional options](https://mongoosejs.com/docs/schematypes.html#schematype-options). For example,<br/> `required`: boolean or   function, specifies a property as needed to include;<br/>
   `default`: sets a default value for the path;<br/>
-  `minLength`: Number, requires a the minimum string length
+  `minLength`: Number, requires a the minimum string length.<br/>
+  If you need some additional properties for a path then a schema type required a `type` property <br/>
+  ![7](img/7.png) <br />
