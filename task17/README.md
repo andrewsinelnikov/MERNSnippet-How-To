@@ -18,4 +18,6 @@ And import **mongoose** library into **Product.js** <br />
 Define the [Schema](https://mongoosejs.com/docs/guide.html#definition)<br>
 > A [schema](https://mongoosejs.com/docs/guide.html#definition) is a definition of the structure of a document. It's a constructor that requires an object where each field corresponds to the name in the collection<br/>
 
-![4](img/4.png) <br />
+- There are 2 ways using **Schema**. It's up to you which one to use. <br />
+  1. First way <br />
+  ![4](img/4.png) <br />
