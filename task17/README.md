@@ -21,3 +21,5 @@ Define the [Schema](https://mongoosejs.com/docs/guide.html#definition)<br>
 - There are 2 ways using **Schema**. It's up to you which one to use. <br />
   1. First way <br />
   ![4](img/4.png) <br />
+  2. Second way <br />
+  ![5](img/5.png) <br />
