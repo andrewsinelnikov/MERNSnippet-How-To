@@ -15,3 +15,5 @@ This guide will teach you how to fill up [MongoDB](https://www.mongodb.com/) dat
 Import your data into MongoDB<br/>
 - Add **dataScript.js** file into **server** folder. Import **.env**, **db**, **products** and **Products** files. <br/>
   ![3](img/3.png) <br />
+- Connect MongoDB <br/>
+  ![4](img/4.png) <br />
