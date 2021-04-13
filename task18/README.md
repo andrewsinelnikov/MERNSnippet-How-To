@@ -30,3 +30,6 @@ Import your data into MongoDB<br/>
 - Add script for this snippet into **package.json** and run it <br />
   ![10](img/10.png) <br />
   ![11](img/11.png) <br />
+- Check your database collections <br />
+  ![12](img/12.png) <br />
+  ![13](img/13.png) <br />
