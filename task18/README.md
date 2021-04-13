@@ -21,3 +21,5 @@ Import your data into MongoDB<br/>
   ![5](img/5.png) <br />
 - Run **insertMany()** function to insert your data into **Product** collection. And give a message if evreything went ok<br/>
   ![6](img/6.png) <br />
+- Since the job is done and the Node.js event loop no longer having anywork to perform, add [`process.exit()`](https://nodejs.org/api/process.html#process_event_exit) method<br/>
+  ![7](img/7.png) <br />
