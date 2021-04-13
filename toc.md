@@ -21,3 +21,4 @@
 * Set Up MongoDB Atlas
 * Connect to MongoDB Using Mongoose
 * Build Models
+* Insert Data into MongoDB
