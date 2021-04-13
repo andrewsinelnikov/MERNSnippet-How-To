@@ -25,3 +25,5 @@ Import your data into MongoDB<br/>
   ![7](img/7.png) <br />
 - Handle the situation when something went wrong. `process.exit()` means there was an uncaught exception<br/>
   ![8](img/8.png) <br />
+- Run this function<br/>
+  ![9](img/9.png) <br />
