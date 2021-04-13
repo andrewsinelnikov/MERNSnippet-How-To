@@ -23,3 +23,5 @@ Import your data into MongoDB<br/>
   ![6](img/6.png) <br />
 - Since the job is done and the Node.js event loop no longer having anywork to perform, add [`process.exit()`](https://nodejs.org/api/process.html#process_event_exit) method<br/>
   ![7](img/7.png) <br />
+- Handle the situation when something went wrong. `process.exit()` means there was an uncaught exception<br/>
+  ![8](img/8.png) <br />
