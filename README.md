@@ -24,3 +24,4 @@
 * [Set Up MongoDB Atlas](task15/README.md)
 * [Connect to MongoDB Using Mongoose](task16/README.md)
 * [Build Models](task17/README.md)
+* [Insert Data into MongoDB](task18/README.md)
