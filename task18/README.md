@@ -33,3 +33,11 @@ Import your data into MongoDB<br/>
 - Check your database collections <br />
   ![12](img/12.png) <br />
   ![13](img/13.png) <br />
+
+**Congratulations! 🎉** Your data is in the database. They willing to work 😅
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task18/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
