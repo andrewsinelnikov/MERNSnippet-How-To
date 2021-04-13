@@ -47,6 +47,7 @@ Change it
 <img src="img/9.png" width="100%"><br/>
 Run the following commands to delete **.gitignore** from client side
 <img src="img/10.png" width="100%"><br/>
+For **mac** run `rm -rf .git`<br />
 Delete **.gitignore** from **client** directory.
 Create **git** repository in the root directory
 <img src="img/11.png" width="100%"><br/>
