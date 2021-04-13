@@ -27,3 +27,6 @@ Import your data into MongoDB<br/>
   ![8](img/8.png) <br />
 - Run this function<br/>
   ![9](img/9.png) <br />
+- Add script for this snippet into **package.json** and run it <br />
+  ![10](img/10.png) <br />
+  ![11](img/11.png) <br />
