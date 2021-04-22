@@ -1,6 +1,6 @@
 # MERNSnippet: How To
 ---
-## Insert Data into MongoDB
+## Define Routing (Express)
 
 ### Description
 This guide will teach you how to fill up [MongoDB](https://www.mongodb.com/) database with data
