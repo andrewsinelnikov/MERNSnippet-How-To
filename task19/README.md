@@ -3,7 +3,7 @@
 ## Define Routing (Express)
 
 ### Description
-This guide will teach you how to fill up [MongoDB](https://www.mongodb.com/) database with data
+This guide will teach you how to create routes in your App
 
 ### Step 1
 - Add **data** folder into your backend part, create **products.js** file there<br/>
