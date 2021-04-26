@@ -22,4 +22,4 @@
 * Connect to MongoDB Using Mongoose
 * Build Models
 * Insert Data into MongoDB
-* Define Routing (Express)
+* Define Routes (Express)
