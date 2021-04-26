@@ -1,6 +1,6 @@
 # MERNSnippet: How To
 ---
-## Define Routing (Express)
+## Define Routes (Express)
 
 ### Description
 This guide will teach you how to create routes in your App <br />
