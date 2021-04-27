@@ -19,4 +19,4 @@ Describe your route <br />
   ![3](img/3.png) <br />
 
 ### Step 4
-Call a method on your router object. <br />
+Call a method on your router object. Method is an HTTP methods<br />
