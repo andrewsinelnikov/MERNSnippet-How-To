@@ -25,4 +25,4 @@ Call a method on your router object. Method corresponds to an HTTP methods (GET,
 **PUT** creates or replaces data <br />
 **DELETE** deletes data<br />
 ### Step 5
-Set route path <br />
+Set route path. Path is the URL requested by the client. It can be strings, string patterns, or regular expressions<br />
