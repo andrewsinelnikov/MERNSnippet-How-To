@@ -24,3 +24,5 @@ Call a method on your router object. Method corresponds to an HTTP methods (GET,
 **POST** sends data to the server <br />
 **PUT** creates or replaces data <br />
 **DELETE** deletes data<br />
+### Step 5
+Set route path <br />
