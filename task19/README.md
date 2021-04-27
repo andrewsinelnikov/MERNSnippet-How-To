@@ -17,6 +17,8 @@ Import `express` and create a router object <br />
 ### Step 3
 Describe your route <br />
   ![3](img/3.png) <br />
-
 ### Step 4
-Call a method on your router object. Method is an HTTP methods<br />
+Call a method on your router object. Method corresponds to an HTTP methods (GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, CONNECT, PATCH) in lower case<br />
+```JavaScript
+  router.get(/*parameters*/);
+```
