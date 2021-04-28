@@ -33,4 +33,4 @@ Set route path. Path is the URL requested by the client. It can be<br />
     - '/ad+' path will match `/ad`, `/add`, `/adddddd` <br />
   * **regular expressions**
     - '/z(oo|u)m/' path will match `/zoom` or `/zum` <br />
- 
+  * **route parameters** - a portion of a URL path at the specific position  with a colon prefix <br />
