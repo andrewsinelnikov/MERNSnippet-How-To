@@ -32,5 +32,5 @@ Set route path. Path is the URL requested by the client. It can be<br />
   * **string patterns**. It can include: ? (there must be 0 or 1 previous character (group)), + (1 or more previous character (group)), * (may have any string), () (group)
     - '/ad+' path will match `/ad`, `/add`, `/adddddd` <br />
   * **regular expressions**
-    - '/' path will match requests to the root route <br />
-    - '/contact' path will match requests to `/contact` <br />
+    - '/z(oo|u)m/' path will match `/zoom` or `/zum` <br />
+ 
