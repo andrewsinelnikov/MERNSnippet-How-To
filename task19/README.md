@@ -74,3 +74,11 @@ It is considered best practice to keep the functions in a separate file. Usually
 ### Step 8
 To use the defined routes import it in **server.js** <br />
 ![15](img/15.png) <br />
+
+**Congratulations! 🎉** Your server is working with a database 👫
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task19/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
