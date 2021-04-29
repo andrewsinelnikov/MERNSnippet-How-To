@@ -65,3 +65,7 @@ Handle the case when something went wrong <br />
 > [Http response status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) indicates how the request was completed
 
 ![12](img/12.png) <br />
+
+### Step 7 (optional)
+It is considered best practice to keep the functions in a separate file. Usually these files are located in the folder
+![13](img/13.png) <br />
