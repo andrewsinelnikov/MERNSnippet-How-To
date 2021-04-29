@@ -56,3 +56,8 @@ To work with data from [MongoDB](https://www.mongodb.com/) we use [Mongoose quer
   ```
 * `Model.findById()` finds a documents by its `_id`. To choose a specific product from database add <br />
   ![10](img/10.png) <br />
+
+To send a response to the client use the response object methods <br />
+`res.json()` - sends a JSON response<br />
+`res.send()` - sends a response of various types<br /> 
+![11](img/11.png) <br />
