@@ -63,4 +63,5 @@ To send a response to the client use the response object methods <br />
 ![11](img/11.png) <br />
 Handle the case when something went wrong <br />
 > [Http response status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) indicates how the request was completed
+
 ![12](img/12.png) <br />
