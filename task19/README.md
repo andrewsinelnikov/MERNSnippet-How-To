@@ -54,3 +54,5 @@ To work with data from [MongoDB](https://www.mongodb.com/) we use [Mongoose quer
   ```JavaScript
     const products = await Product.find({ company:"EGGER" });
   ```
+* `Model.findById()` finds a documents by its `_id`. To get a specific product from database add <br />
+  ![10](img/10.png) <br />
