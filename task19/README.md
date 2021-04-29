@@ -38,3 +38,5 @@ Set route path. Path is the URL requested by the client. It can be<br />
 
 So let's create two routes for our app. The first is for displaying all products, the second for the selected product <br />
 ![4](img/4.png) <br />
+To use routes we need to export them <br />
+![5](img/5.png) <br />
