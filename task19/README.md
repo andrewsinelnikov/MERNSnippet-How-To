@@ -45,5 +45,5 @@ Create the route callback functions to handle a request. Such functions take par
 ![6](img/6.png) <br />
 To catch errors in the asynchronous code we use a `try...catch` block <br />
 ![7](img/7.png) <br />
-Bring in model that is responsible for reading document from the underlying MongoDB database <br />
+Bring in [models](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/task17/README.md) that are responsible for reading documents from the underlying MongoDB database <br />
 ![8](img/8.png) <br />
