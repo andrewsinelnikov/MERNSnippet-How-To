@@ -48,11 +48,11 @@ To catch errors in the asynchronous code we use a `try...catch` block <br />
 Bring in [models](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/task17/README.md) that are responsible for reading documents from the underlying MongoDB database <br />
 ![8](img/8.png) <br />
 To work with data from [MongoDB](https://www.mongodb.com/) we use [Mongoose query methods](https://mongoosejs.com/docs/queries.html). <br />
-* `Model.find()` finds all documents. To get all products from database add <br />
+* `Model.find()` finds all documents. To choose all products from database add <br />
   ![9](img/9.png) <br />
   To find all products of a specific company add a filter <br />
   ```JavaScript
     const products = await Product.find({ company:"EGGER" });
   ```
-* `Model.findById()` finds a documents by its `_id`. To get a specific product from database add <br />
+* `Model.findById()` finds a documents by its `_id`. To choose a specific product from database add <br />
   ![10](img/10.png) <br />
