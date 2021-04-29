@@ -61,3 +61,5 @@ To send a response to the client use the response object methods <br />
 `res.json()` - sends a JSON response<br />
 `res.send()` - sends a response of various types<br /> 
 ![11](img/11.png) <br />
+Handle the case when something went wrong <br />
+![12](img/12.png) <br />
