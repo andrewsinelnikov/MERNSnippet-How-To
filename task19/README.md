@@ -73,4 +73,4 @@ It is considered best practice to keep the functions in a separate file. Usually
 
 ### Step 8
 To use the defined routes import it in **server.js** <br />
-![14](img/15.png) <br />
+![15](img/15.png) <br />
