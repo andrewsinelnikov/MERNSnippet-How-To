@@ -35,3 +35,6 @@ Set route path. Path is the URL requested by the client. It can be<br />
     - '/z(oo|u)m/' path will match `/zoom` or `/zum` <br />
   * **route parameters** - a portion of a URL path at the specific position  with a colon prefix <br />
     - The values are stored in the **req.params** object where names are keys (`/:id/` can be used in `req.params.id`), where the `req` object is the HTTP request.
+
+So let's create two routes for our app. The first is for displaying all products, the second for the selected product <br />
+![4](img/4.png) <br />
