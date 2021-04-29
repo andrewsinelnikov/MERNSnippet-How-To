@@ -50,3 +50,7 @@ Bring in [models](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/m
 To work with data from [MongoDB](https://www.mongodb.com/) we use [Mongoose query methods](https://mongoosejs.com/docs/queries.html). <br />
 * `Model.find()` finds all documents. To get all products from database add <br />
   ![9](img/9.png) <br />
+  To find all products of a specific company add a filter <br />
+  ```JavaScript
+    const products = await Product.find({ company:"EGGER" });
+  ```
