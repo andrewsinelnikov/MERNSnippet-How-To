@@ -40,3 +40,5 @@ So let's create two routes for our app. The first is for displaying all products
 ![4](img/4.png) <br />
 To use routes we need to export them <br />
 ![5](img/5.png) <br />
+### Step 6
+Create the route callback functions to handle a request.
