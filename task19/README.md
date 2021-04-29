@@ -41,4 +41,5 @@ So let's create two routes for our app. The first is for displaying all products
 To use routes we need to export them <br />
 ![5](img/5.png) <br />
 ### Step 6
-Create the route callback functions to handle a request.
+Create the route callback functions to handle a request. Such functions take parameters: `req` - the request object, `res` - the response object, `next` (optional) - the function in the application’s request-response cycle <br />
+![6](img/6.png) <br />
