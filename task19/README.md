@@ -43,3 +43,5 @@ To use routes we need to export them <br />
 ### Step 6
 Create the route callback functions to handle a request. Such functions take parameters: `req` - the request object, `res` - the response object, `next` (optional) - the function in the application’s request-response cycle <br />
 ![6](img/6.png) <br />
+To catch errors in the asynchronous code we use a `try...catch` block <br />
+![7](img/7.png) <br />
