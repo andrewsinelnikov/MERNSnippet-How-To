@@ -69,3 +69,4 @@ Handle the case when something went wrong <br />
 ### Step 7 (optional)
 It is considered best practice to keep the functions in a separate file. Usually these files are located in the folder. This makes the code much cleaner <br />
 ![13](img/13.png) <br />
+![14](img/14.png) <br />
