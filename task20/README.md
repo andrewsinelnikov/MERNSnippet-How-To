@@ -14,5 +14,5 @@ Save your new object and send a JSON response<br />
   ![3](img/3.png) <br /> 
 Add a new route to **products.js** in **rouutes/api** folder. To add data we're going to use `post` method from [**Express**](http://expressjs.com/en/4x/api.html#app.post.method)<br />
   ![4](img/4.png) <br /> 
-Add [express.json()]() to server.js <br />
+Add [express.json()](http://expressjs.com/en/4x/api.html#express.json) to server.js <br />
   ![5](img/5.png) <br /> 
