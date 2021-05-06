@@ -22,3 +22,6 @@ UPDATE data (our product). Let's create a **updateProduct()** function in **prod
   ![6](img/6.png) <br />  
 Destructure the fields of the request object **req.body** and build an object with updated fields <br />
   ![7](img/7.png) <br />  
+Find a product by id. If it exists, assign new values to the fields <br />
+  ![8](img/8.png) <br />  
+  
