@@ -11,4 +11,6 @@ Add new data. In our project, we want to be able to add a new product. Let's cre
 Define our new product according to **Product model**. We can get the values of each field from the reques object `req.body`<br />
   ![2](img/2.png) <br />  
 Save your new object and send a JSON response<br />
-  ![3](img/3.png) <br />  
+  ![3](img/3.png) <br /> 
+Add a new route to **products.js** in **rouutes/api** folder
+  ![4](img/4.png) <br /> 
