@@ -8,3 +8,5 @@ In [the last article](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tr
 ### Step 1
 Add new data. In our project, we want to be able to add a new product. Let's create a function to manage it in **products.js** from **controllers** folder<br/>
   ![1](img/1.png) <br />  
+Define our new product according to **Product model** <br />
+  ![2](img/2.png) <br />  
