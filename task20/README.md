@@ -16,3 +16,7 @@ Add a new route to **products.js** in **rouutes/api** folder. To add data we're 
   ![4](img/4.png) <br /> 
 Add [express.json()](http://expressjs.com/en/4x/api.html#express.json) to server.js <br />
   ![5](img/5.png) <br /> 
+
+### Step 2
+UPDATE data (our product). Let's create a **updateProduct()** function in **products.js** from **controllers** folder<br/>
+  ![6](img/6.png) <br />  
