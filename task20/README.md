@@ -24,4 +24,5 @@ Destructure the fields of the request object **req.body** and build an object wi
   ![7](img/7.png) <br />  
 Find a product by id. If it exists, assign new values to the fields <br />
   ![8](img/8.png) <br />  
-  
+If there is no product with id, send a message <br />
+  ![9](img/9.png) <br />
