@@ -20,3 +20,5 @@ Add [express.json()](http://expressjs.com/en/4x/api.html#express.json) to server
 ### Step 2
 UPDATE data (our product). Let's create a **updateProduct()** function in **products.js** from **controllers** folder<br/>
   ![6](img/6.png) <br />  
+Destructure the fields of the request object **req.body** and build an object with updated fields <br />
+  ![7](img/7.png) <br />  
