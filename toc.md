@@ -23,3 +23,4 @@
 * Build Models
 * Insert Data into MongoDB
 * Define Routes (Express)
+* Define Routes (part 2)
