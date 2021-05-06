@@ -12,5 +12,5 @@ Define our new product according to **Product model**. We can get the values of 
   ![2](img/2.png) <br />  
 Save your new object and send a JSON response<br />
   ![3](img/3.png) <br /> 
-Add a new route to **products.js** in **rouutes/api** folder
+Add a new route to **products.js** in **rouutes/api** folder. To add data we're going to use `post` method from [**Express**](http://expressjs.com/en/4x/api.html#app.post.method)<br />
   ![4](img/4.png) <br /> 
