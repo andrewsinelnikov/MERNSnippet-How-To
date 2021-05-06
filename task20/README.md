@@ -26,3 +26,5 @@ Find a product by id. If it exists, assign new values to the fields <br />
   ![8](img/8.png) <br />  
 If there is no product with id, send a message <br />
   ![9](img/9.png) <br />
+Add a new route to **products.js** in **rouutes/api** folder. To update data we're going to use `put` method from [**Express**](http://expressjs.com/en/4x/api.html#app.put.method)<br />
+  ![10](img/10.png) <br /> 
