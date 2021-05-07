@@ -30,3 +30,7 @@ Add a new route to **products.js** in **rouutes/api** folder. To update data we'
   ![10](img/10.png) <br /> 
 Set **useFindAndModify** in **db.js** from **config** folder <br />
   ![11](img/11.png) <br /> 
+
+### Step 3
+DELETE data (our product). Let's create a **deleteProduct()** function in **products.js** from **controllers** folder<br/>
+  ![12](img/12.png) <br />  
