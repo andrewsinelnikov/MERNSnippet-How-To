@@ -12,7 +12,7 @@ Define our new product according to **Product model**. We can get the values of 
   ![2](img/2.png) <br />  
 Save your new object and send a JSON response<br />
   ![3](img/3.png) <br /> 
-Add a new route to **products.js** in **rouutes/api** folder. To add data we're going to use `post` method from [**Express**](http://expressjs.com/en/4x/api.html#app.post.method)<br />
+Add a new route to **products.js** in **routes/api** folder. To add data we're going to use `post` method from [**Express**](http://expressjs.com/en/4x/api.html#app.post.method)<br />
   ![4](img/4.png) <br /> 
 Add [express.json()](http://expressjs.com/en/4x/api.html#express.json) to server.js <br />
   ![5](img/5.png) <br /> 
@@ -26,7 +26,7 @@ Find a product by id. If it exists, assign new values to the fields <br />
   ![8](img/8.png) <br />  
 If there is no product with id, send a message <br />
   ![9](img/9.png) <br />
-Add a new route to **products.js** in **rouutes/api** folder. To update data we're going to use `put` method from [**Express**](http://expressjs.com/en/4x/api.html#app.put.method)<br />
+Add a new route to **products.js** in **routes/api** folder. To update data we're going to use `put` method from [**Express**](http://expressjs.com/en/4x/api.html#app.put.method)<br />
   ![10](img/10.png) <br /> 
 Set **useFindAndModify** in **db.js** from **config** folder <br />
   ![11](img/11.png) <br /> 
@@ -38,3 +38,5 @@ Find a product by id and make sure it exists <br />
   ![13](img/13.png) <br />  
 Remove the product<br />
   ![14](img/14.png) <br />  
+Add a new route to **products.js** in **routes/api** folder. To delete data we're going to use `delete` method from [**Express**](http://expressjs.com/en/4x/api.html#app.delete.method)<br />
+  ![15](img/15.png) <br />
