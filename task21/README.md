@@ -3,7 +3,7 @@
 ## Test Your API with Postman
 
 ### Description
-In [the previous article](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task20), we defined routes for our app. Do they work? How to check without front-end part? Postman is a good instrument to test it out <br />
+In [the previous article](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task20), we defined routes for our app. Do they work? How to check without front-end part? [Postman](https://www.postman.com/) is a good instrument to test it out <br />
 
 > Postman is a API client that helps to create, test, save HTTP/s requests and get their responses.<br />
 
