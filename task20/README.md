@@ -40,3 +40,11 @@ Remove the product<br />
   ![14](img/14.png) <br />  
 Add a new route to **products.js** in **routes/api** folder. To delete data we're going to use `delete` method from [**Express**](http://expressjs.com/en/4x/api.html#app.delete.method)<br />
   ![15](img/15.png) <br />
+  
+**Congratulations! 🎉** You're able to get, add, update and delete your data 🛠️
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task20/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
