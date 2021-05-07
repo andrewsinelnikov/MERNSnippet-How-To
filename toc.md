@@ -24,3 +24,4 @@
 * Insert Data into MongoDB
 * Define Routes (Express)
 * Define Routes (part 2)
+* Test Your API with Postman
