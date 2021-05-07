@@ -36,3 +36,5 @@ DELETE data (our product). Let's create a **deleteProduct()** function in **prod
   ![12](img/12.png) <br />  
 Find a product by id and make sure it exists <br />
   ![13](img/13.png) <br />  
+Remove the product<br />
+  ![14](img/14.png) <br />  
