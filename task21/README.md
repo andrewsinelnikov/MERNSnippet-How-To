@@ -20,5 +20,7 @@ Open a Tab for a request<br>
 
 ### Step 3
 Test route *Get All Products* <br />
-Set the **GET** Method <br>
+Set **GET** Method <br>
   ![4](img/4.png) <br />  
+ Enter request URL `http://localhost:5000/api/products` and send it<br />
+  ![5](img/5.png) <br />  
