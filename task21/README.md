@@ -55,3 +55,10 @@ On the **Headers** tab set *JSON content type*
 On the **Body** tab with the **raw** option, set new values of required fields<br />
   ![12](img/12.png) <br />  
 Save the request for future reference <br />
+
+### Step 7
+Test route *Delete a Product by ID* <br />
+Choose one of the products, for example, you added in the previous request and take its `_id`. <br />
+Open a Tab. Set **DELETE** method and enter request URL with `_id` `http://localhost:5000/api/products/`**your id** and send it<br />
+  ![13](img/13.png) <br />  
+Save the request for future reference <br />
