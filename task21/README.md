@@ -46,3 +46,12 @@ Open the **Headers** tab and set a **KEY** to `Content-Type`, a **VALUE** to `ap
 On the **Body** tab with the **raw** option, set an *Product* object with the required fields. And send a request <br />
   ![11](img/11.png) <br />  
 Save the request for future reference <br />
+
+### Step 6
+Test route *Update a Product by ID* <br />
+Choose one of the products, for example, you added in the previous request and take its `_id`. <br />
+Open a Tab. Set **PUT** method, enter request URL with `_id` `http://localhost:5000/api/products/`**your id**.<br />
+On the **Headers** tab set *JSON content type*
+On the **Body** tab with the **raw** option, set new values of required fields<br />
+  ![12](img/12.png) <br />  
+Save the request for future reference <br />
