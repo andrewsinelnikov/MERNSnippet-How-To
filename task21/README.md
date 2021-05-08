@@ -24,5 +24,9 @@ Set **GET** Method <br>
   ![4](img/4.png) <br />  
 Enter request URL `http://localhost:5000/api/products` and send it<br />
   ![5](img/5.png) <br />  
-Look at the response <br />
+Look at the response. We've got all products from the database <br />
   ![6](img/6.png) <br />  
+Save the request for future reference <br />
+  ![7](img/7.png) <br />  
+Give request name <br />
+  ![8](img/8.png) <br />  
