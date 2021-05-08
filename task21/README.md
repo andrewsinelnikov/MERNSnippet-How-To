@@ -34,5 +34,5 @@ Give request name and select a collection to save to <br />
 ### Step 4
 Test route *Get a Product by ID* <br />
 Choose one of the products that you received in the previous request and take its `_id`. <br />
-Set **GET** Method and enter request URL with `_id` `http://localhost:5000/api/products/**your id**` and send it<br />
+Set **GET** Method and enter request URL with `_id` `http://localhost:5000/api/products/`**your id** and send it<br />
   ![9](img/9.png) <br />  
