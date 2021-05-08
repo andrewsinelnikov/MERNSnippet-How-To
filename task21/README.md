@@ -20,7 +20,7 @@ Open a Tab for a request<br>
 
 ### Step 3
 Test route *Get All Products* <br />
-Set **GET** Method <br>
+Set **GET** method <br>
   ![4](img/4.png) <br />  
 Enter request URL `http://localhost:5000/api/products` and send it<br />
   ![5](img/5.png) <br />  
@@ -34,5 +34,13 @@ Give request name and select a collection to save to <br />
 ### Step 4
 Test route *Get a Product by ID* <br />
 Choose one of the products that you received in the previous request and take its `_id`. <br />
-Set **GET** Method and enter request URL with `_id` `http://localhost:5000/api/products/`**your id** and send it<br />
+Open a Tab. Set **GET** method and enter request URL with `_id` `http://localhost:5000/api/products/`**your id** and send it<br />
   ![9](img/9.png) <br />  
+Save the request for future reference <br />
+
+### Step 5
+Test route *Add a Product* <br />
+Open a Tab. Set **POST** method, enter request URL `http://localhost:5000/api/products`.<br />
+Open a **Headers** tab and set a **KEY** to `Content-Type`, a **VALUE** to `application/json`. Save it as a preset *JSON content* for future reference <br />
+  ![10](img/10.png) <br />  
+Save the request for future reference <br />
