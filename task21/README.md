@@ -28,5 +28,5 @@ Look at the response. We've got all products from the database <br />
   ![6](img/6.png) <br />  
 Save the request for future reference <br />
   ![7](img/7.png) <br />  
-Give request name <br />
+Give request name and select a collection to save to <br />
   ![8](img/8.png) <br />  
