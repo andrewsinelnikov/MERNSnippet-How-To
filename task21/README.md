@@ -41,6 +41,8 @@ Save the request for future reference <br />
 ### Step 5
 Test route *Add a Product* <br />
 Open a Tab. Set **POST** method, enter request URL `http://localhost:5000/api/products`.<br />
-Open a **Headers** tab and set a **KEY** to `Content-Type`, a **VALUE** to `application/json`. Save it as a preset *JSON content* for future reference <br />
+Open the **Headers** tab and set a **KEY** to `Content-Type`, a **VALUE** to `application/json`. Save it as a preset *JSON content* for future reference <br />
   ![10](img/10.png) <br />  
+On the **Body** tab with the **raw** option, set an *Product* object with the required fields. And send a request <br />
+  ![11](img/11.png) <br />  
 Save the request for future reference <br />
