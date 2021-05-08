@@ -17,3 +17,8 @@ Give it a name <br>
   ![2](img/2.png) <br />  
 Open a Tab for a request<br>
   ![3](img/3.png) <br />  
+
+### Step 3
+Test route *Get All Products* <br />
+Set the **GET** Method <br>
+  ![4](img/4.png) <br />  
