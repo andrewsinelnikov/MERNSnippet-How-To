@@ -8,5 +8,5 @@ In [the previous article](https://github.com/andrewsinelnikov/ReactSnippet-How-T
 > Postman is a API client that helps to create, test, save HTTP/s requests and get their responses.<br />
 
 ### Step 1
-ADD new data. In our project, we want to be able to add a new product. Let's create a function to manage it in **products.js** from **controllers** folder<br/>
+[Downloand](https://www.postman.com/downloads/) Postman and install on your computer<br/>
   ![1](img/1.png) <br />  
