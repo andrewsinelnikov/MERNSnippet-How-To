@@ -15,3 +15,5 @@ Create a collection for the project<br/>
   ![1](img/1.png) <br />  
 Give it a name <br>
   ![2](img/2.png) <br />  
+Open a Tab for a request<br>
+  ![3](img/3.png) <br />  
