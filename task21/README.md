@@ -62,3 +62,9 @@ Choose one of the products, for example, you added in the previous request and t
 Open a Tab. Set **DELETE** method and enter request URL with `_id` `http://localhost:5000/api/products/`**your id** and send it<br />
   ![13](img/13.png) <br />  
 Save the request for future reference <br />
+
+**Congratulations! 🎉** Your routes are doing their job 💪
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
