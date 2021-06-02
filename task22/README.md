@@ -59,6 +59,7 @@ Add arguments <br />
         /* other argument */
         );
     ```
+
 3. `enhancer` (optional) is a function that enhances the store with third-party capabilities such as middleware <br />
    * Import a **applyMiddleware** function
      ```Javascript
@@ -94,3 +95,11 @@ Add arguments <br />
 ### Step 4
 Connect the application to the store. Change your **App.js** <br />
   ![5](img/5.png) <br />  
+
+**Congratulations! 🎉** Your application is connected to Redux Store 🔗
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task22/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
