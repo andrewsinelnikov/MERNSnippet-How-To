@@ -71,11 +71,22 @@ Add arguments <br />
      ```Javascript
      const middleware = [thunk];
      ```
-   * Pass it into **createStore()** <br />
-    ```Javascript
-    const store = createStore(
+     ```Javascript
+     const store = createStore(
           reducer,
           initialState,
           applyMiddleware(...middleware)
         );
-    ```
+     ```
+   * Add the **redux-devtools-extension** to your app. It allows to inspect and replay actions, explore the state at different times <br />
+     ```Javascript
+     import { composeWithDevTools } from "redux-devtools-extension";
+     ```
+     ```Javascript
+     const store = createStore(
+        rootReducer,
+        initialState,
+        composeWithDevTools(applyMiddleware(...middleware))
+      );
+     ```
+  ![4](img/4.png) <br />  
