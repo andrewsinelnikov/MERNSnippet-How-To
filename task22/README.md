@@ -45,5 +45,15 @@ Add arguments <br />
         reducer,
         /* other arguments */
         );
-  ```
+    ```
   ![3](img/3.png) <br />  
+2. `initialState` (optional). The initial state <br />
+   * ```Javascript
+     const initialState = {};
+    ```
+   * ```Javascript
+    const store = createStore(
+        reducer,
+        /* other arguments */
+        );
+    ```
