@@ -59,3 +59,23 @@ Add arguments <br />
         /* other argument */
         );
     ```
+3. `enhancer` (optional) is a function that enhances the store with third-party capabilities such as middleware <br />
+   * Import a **applyMiddleware** function
+     ```Javascript
+       import { createStore, combineReducers, applyMiddleware } from 'redux'
+     ```
+   * Redux **Thunk** middleware is a function lets you write async logic that interacts with the store
+     ```Javascript
+     import thunk from "redux-thunk";
+     ```
+     ```Javascript
+     const middleware = [thunk];
+     ```
+   * Pass it into **createStore()** <br />
+    ```Javascript
+    const store = createStore(
+        reducer,
+        initialState,
+        /* other argument */
+        );
+    ```
