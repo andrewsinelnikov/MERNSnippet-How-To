@@ -74,8 +74,8 @@ Add arguments <br />
    * Pass it into **createStore()** <br />
     ```Javascript
     const store = createStore(
-        reducer,
-        initialState,
-        applyMiddleware(thunk)
+          reducer,
+          initialState,
+          applyMiddleware(...middleware)
         );
     ```
