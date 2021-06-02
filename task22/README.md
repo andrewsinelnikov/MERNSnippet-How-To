@@ -10,8 +10,9 @@
 This tutorial give you a comfortable start to using Redux in your application<br /> 
 
 ### Step 1
-[Downloand](https://www.postman.com/downloads/) Postman and install on your computer. You're ready to test the routes we defined (make sure you launch the server in **Terminal**, `npm run dev`)<br/>
+Create a **store.js** file in **client/src** folder<br/>
+  ![1](img/1.png) <br />  
 
 ### Step 2
 Create a collection for the project<br/>
-  ![1](img/1.png) <br />  
+  ![2](img/2.png) <br />  
