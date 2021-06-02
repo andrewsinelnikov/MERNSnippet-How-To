@@ -30,13 +30,20 @@ Create a **store.js** file in **client/src** folder<br/>
 
 ### Step 3
 Add arguments <br />
--  `reducer` is function that returns the next state<br/>
-  - Import a **combineReducers** function. It returns an object that combines different reducing functions into a single function <br />
+1.  `reducer` is function that returns the next state<br/>
+  * Import a **combineReducers** function. It returns an object that combines different reducing functions into a single function <br />
     ```Javascript
       import { createStore, combineReducers } from 'redux'
     ```
-  - Call it <br />
+  * Call it <br />
     ```Javascript
       const reducer = combineReducers({});
     ```
-  
+  * Pass it into **createStore()** <br />
+    ```Javascript
+    const store = createStore(
+        reducer,
+        /* other arguments */
+        );
+  ```
+  ![3](img/3.png) <br />  
