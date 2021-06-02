@@ -27,3 +27,12 @@ Create a **store.js** file in **client/src** folder<br/>
     export default store;
   ```
   ![2](img/2.png) <br />  
+
+### Step 3
+Add arguments <br />
+-  `reducer` is function that returns the next state<br/>
+  * Import a **combineReducers** function. It combines different reducing functions into a single function <br />
+  ```Javascript
+    import { createStore, combineReducers } from 'redux'
+  ```
+  
