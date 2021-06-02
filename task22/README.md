@@ -50,10 +50,12 @@ Add arguments <br />
 2. `initialState` (optional). The initial state <br />
    * ```Javascript
      const initialState = {};
-    ```
-   * ```Javascript
+     ```
+   * Pass it into **createStore()** <br />
+    ```Javascript
     const store = createStore(
         reducer,
-        /* other arguments */
+        initialState,
+        /* other argument */
         );
     ```
