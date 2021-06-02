@@ -22,4 +22,8 @@ Create a **store.js** file in **client/src** folder<br/>
   ```Javascript
     const store = createStore(/* arguments */);
   ```
+- Export your store <br />
+  ```Javascript
+    export default store;
+  ```
   ![2](img/2.png) <br />  
