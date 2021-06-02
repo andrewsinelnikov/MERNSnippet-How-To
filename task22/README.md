@@ -76,6 +76,6 @@ Add arguments <br />
     const store = createStore(
         reducer,
         initialState,
-        /* other argument */
+        applyMiddleware(thunk)
         );
     ```
