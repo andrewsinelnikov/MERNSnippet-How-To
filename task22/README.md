@@ -90,3 +90,7 @@ Add arguments <br />
       );
      ```
   ![4](img/4.png) <br />  
+
+### Step 4
+Connect the application to the store. Change your **App.js** <br />
+  ![5](img/5.png) <br />  
