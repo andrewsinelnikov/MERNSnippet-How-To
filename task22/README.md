@@ -18,4 +18,8 @@ Create a **store.js** file in **client/src** folder<br/>
   ```Javascript
     import { createStore } from 'redux'
   ```
+- Call it <br />
+  ```Javascript
+    const store = createStore(/* arguments */);
+  ```
   ![2](img/2.png) <br />  
