@@ -60,7 +60,7 @@ Add arguments <br />
         );
     ```
 
-3. `enhancer` (optional) is a function that enhances the store with third-party capabilities such as middleware <br />
+3. `enhancer` (optional) is a function that enhances the store with third-party capabilities such as middleware. Store enhancers add a layer customizing the store <br />
    * Import a **applyMiddleware** function
      ```Javascript
        import { createStore, combineReducers, applyMiddleware } from 'redux'
