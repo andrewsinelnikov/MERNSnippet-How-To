@@ -13,8 +13,8 @@ Each action has a `type` field. It's a string that describes the action. For con
   ![1](img/1.png) <br />  
 Add some constants for our cart <br>  
   ![2](img/2.png) <br />  
-An action object can have a field `payload` that contains additional information about the event.<br />
-For example, if we want to add a product to the cart, then we need information about this product, and we will pass it as the value of the `payload` field. <br />
+An action object can have a field `payload` that contains additional data for the event.<br />
+For example, if we want to add a product to the cart, then we need to pass information about this product as the value of the `payload` field. <br />
 Thus, our action may take the form <br />
   ```Javascript
     {
