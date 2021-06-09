@@ -35,6 +35,7 @@ To notify the store that an action has occurred and the state must be updated, w
   ![5](img/5.png) <br />  
 
 **Congratulations! 🎉** Your first action is designed 🎾
+**TASK for you:** define action with type: REMOVE_FROM_CART
 
 Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task23/src)
 
