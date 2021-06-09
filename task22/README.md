@@ -7,7 +7,7 @@
 > [Redux Store](https://redux.js.org/tutorials/fundamentals/part-4-store) is an object that holds global state of a Redux application. To change the state we need to dispatch an action on it<br />
 
 ### Description
-This tutorial give you a comfortable start to using Redux in your application<br /> 
+This tutorial will give you a comfortable start to using Redux in your application<br /> 
 
 ### Step 1
 Create a **store.js** file in **client/src** folder<br/>
