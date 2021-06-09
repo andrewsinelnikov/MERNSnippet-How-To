@@ -31,3 +31,4 @@
 
 ### Redux
 * [Create Redux Store](task22/README.md)
+* [Design Actions](task23/README.md)
