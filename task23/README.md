@@ -14,7 +14,7 @@ Each action has a `type` field. It's a string that describes the action. For con
 Add some constants for our cart <br>  
   ![2](img/2.png) <br />  
 An action object can have a field `payload` that contains additional data for the event.<br />
-For example, if we want to add a product to the cart, then we need to pass information about this product as the value of the `payload` field. <br />
+For example, if we want to add a product to the cart, then we need to pass information about this product as the value of the `payload` field (Read [Build Models](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/task17/README.md)). <br />
 Thus, our action may take the form <br />
   ```Javascript
     {
