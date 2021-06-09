@@ -15,6 +15,14 @@ Add some constants for our cart <br>
   ![2](img/2.png) <br />  
 An action object can have a field `payload` that contains additional information about the event.<br />
 For example, if we want to add a product to the cart, then we need information about this product, and we will pass it as the value of the `payload` field. <br />
+Thus, our action may take the form <br />
+  ```Javascript
+    {
+      type: ADD_TO_CART,
+      payload: { product, title, info, price, company, img, count, total }
+    }
+  ```
+
 ### Step 2
 - Import a **createStore** function<br/>
   ```Javascript
