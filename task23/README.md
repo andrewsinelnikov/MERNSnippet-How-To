@@ -19,12 +19,16 @@ Thus, our action may take the form <br />
   ```Javascript
     {
       type: ADD_TO_CART,
-      payload: { product, title, info, price, company, img, count, total }
+      payload: { product, title, info, price, company, img, count }
     }
   ```
 
 ### Step 2
-- Import a **createStore** function<br/>
+Create an **cart.js** file in **actions** folder. <br />
+Import type constants <br />
+Define a function to dispatch the action
+  ![3](img/3.png) <br />  
+
   ```Javascript
     import { createStore } from 'redux'
   ```
