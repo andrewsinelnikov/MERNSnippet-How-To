@@ -33,6 +33,11 @@ Import the library and make a request to get the data (make sure you installed A
   ![4](img/4.png) <br />  
 To notify the store that an action has occurred and the state must be updated, we need to call [**dispatch**](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#dispatch) method and pass in an action object <br />
   ![5](img/5.png) <br />  
-  ```Javascript
-    import { createStore } from 'redux'
-  ```
+
+**Congratulations! 🎉** Your first action is designed 🎾
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task23/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
