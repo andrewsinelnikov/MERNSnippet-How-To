@@ -28,7 +28,7 @@ Create an **cart.js** file in **actions** folder. <br />
 Import type constants <br />
 Define a function to dispatch the action, where `id` is the product identifier, `total` is the quantity
   ![3](img/3.png) <br />  
-
+Since product data is stored on the server, we need to communicate through the HTTP protocol. One way is to use [**Axios**](https://axios-http.com/docs/intro). Axios is a JS library based on Promise for making HTTP requests from node.js or XMLHttpRequests from the browser.
   ```Javascript
     import { createStore } from 'redux'
   ```
