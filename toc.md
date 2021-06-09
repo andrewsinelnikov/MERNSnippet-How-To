@@ -28,3 +28,4 @@
 
 ### Redux
 * Create Redux Store
+* Design Actions
