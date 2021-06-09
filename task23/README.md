@@ -2,8 +2,10 @@
 ---
 ## Design Actions
 
+< [**Actions**](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#actions) are plain JavaScript objects that describe what happens in the application
+
 ### Description
-This tutorial give you a comfortable start to using Redux in your application<br /> 
+This tutorial will teach you how to design <br /> 
 
 ### Step 1
 Create a **store.js** file in **client/src** folder<br/>
