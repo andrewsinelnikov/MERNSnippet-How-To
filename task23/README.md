@@ -13,6 +13,7 @@ Each action has a `type` field. It's a string that describes the action. For con
   ![1](img/1.png) <br />  
 Add some constants for our cart <br>  
   ![2](img/2.png) <br />  
+An action object can have a field `payload` that contains additional information about the event. 
 
 ### Step 2
 - Import a **createStore** function<br/>
