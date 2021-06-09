@@ -79,7 +79,7 @@ Add arguments <br />
           applyMiddleware(...middleware)
         );
      ```
-   * Add the **redux-devtools-extension** to your app. It allows to inspect and replay actions, explore the state at different times <br />
+   * Add the **redux-devtools-extension** to your app. **Redux DevTools** allows to inspect and replay actions, to know when, how, where the state has changed at different times<br />
      ```Javascript
      import { composeWithDevTools } from "redux-devtools-extension";
      ```
