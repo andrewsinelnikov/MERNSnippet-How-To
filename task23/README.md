@@ -27,14 +27,19 @@ Thus, our action may take the form <br />
 Create an **cart.js** file in **actions** folder. <br />
 Import type constants <br />
 Define a function to dispatch the action, where `id` is the product identifier, `total` is the quantity
+
   ![3](img/3.png) <br />  
+  
 Since product data is stored on the server, we need to communicate through the HTTP protocol. One way is to use [**Axios**](https://axios-http.com/docs/intro). Axios is a JS library based on Promise for making HTTP requests from node.js or XMLHttpRequests from the browser.<br />
 Import the library and make a request to get the data (make sure you installed Axios)<br />
+  
   ![4](img/4.png) <br />  
+  
 To notify the store that an action has occurred and the state must be updated, we need to call [**dispatch**](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#dispatch) method and pass in an action object <br />
+
   ![5](img/5.png) <br />  
 
-**Congratulations! 🎉** Your first action is designed 🎾
+**Congratulations! 🎉** Your first action is designed 🎾 <br />
 **TASK for you:** define action with type: REMOVE_FROM_CART
 
 Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task23/src)
