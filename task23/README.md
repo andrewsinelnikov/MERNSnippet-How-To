@@ -19,14 +19,14 @@ Thus, our action may take the form <br />
   ```Javascript
     {
       type: ADD_TO_CART,
-      payload: { product, title, info, price, company, img, count }
+      payload: { product, title, info, price, company, img, count, total }
     }
   ```
 
 ### Step 2
 Create an **cart.js** file in **actions** folder. <br />
 Import type constants <br />
-Define a function to dispatch the action
+Define a function to dispatch the action, where `id` is the product identifier, `total` is the quantity
   ![3](img/3.png) <br />  
 
   ```Javascript
