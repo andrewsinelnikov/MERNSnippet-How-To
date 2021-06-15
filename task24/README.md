@@ -51,3 +51,8 @@ Our **cartReducer** function is ready <br />
 ### Step 7
 Usually Redux reducers are split apart based on the section of the state that they update. Yet an app should has only one reducer function. Therefore combine all reducers you've created. Add **index.js** into **reducers** folder where you can combine all Redux reducers that you will create <br /> 
   ![8](img/8.png) <br />
+
+### Step 8
+Update the [**store**]((https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task22/README.md)) <br /> 
+  ![9](img/9.png) <br />
+
