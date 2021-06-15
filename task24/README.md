@@ -7,7 +7,7 @@
 ### Description
 An app should has only one reducer function. That root reducer we pass to the [`store`](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task22/README.md).<br /> 
 This tutorial will teach you how to define reducer <br /> 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax <br />
+
 ### Step 1
 Create a **reducers** folder in **client/src** folder and a **cart.js** out there<br /> 
   ![1](img/1.png) <br />
