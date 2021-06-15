@@ -8,7 +8,7 @@
 This tutorial will teach you how to design action objects <br /> 
 
 ### Step 1
-Create a **actions** folder in **client/src** folder. <br /> 
+Create an **actions** folder in **client/src** folder. <br /> 
 Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
   ![1](img/1.png) <br />  
 Add some constants for our cart <br>  
