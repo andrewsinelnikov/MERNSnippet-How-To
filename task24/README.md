@@ -53,6 +53,14 @@ Usually Redux reducers are split apart based on the section of the state that th
   ![8](img/8.png) <br />
 
 ### Step 8
-Update the [**store**]((https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task22/README.md)) <br /> 
+Update the [**store**](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task22/README.md) <br /> 
   ![9](img/9.png) <br />
 
+**Congratulations! 🎉** You have the reducer ⚙️ <br />
+**TASK for you:** define action with type: REMOVE_FROM_CART
+
+Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task24/src)
+
+#### Got a question ❓   [✉️](https://twitter.com/Andrew79361148)
+
+Want to know more? 👉 [Read next](https://github.com/andrewsinelnikov/ReactSnippet-How-To/blob/main/README.md)
