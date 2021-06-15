@@ -24,6 +24,8 @@ Set the initial state (since the cart initially contains no items, its value wil
 Add a function that takes the current state and an action as arguments And for convenience, do destructuring of the action object<br /> 
   ![4](img/4.png) <br />
 
-
+### Step 5
+Since reducers update the state based on the received action (event) type we will use `switch` operator  to handle cases of each type<br /> 
+  ![5](img/5.png) <br />
 
 Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
