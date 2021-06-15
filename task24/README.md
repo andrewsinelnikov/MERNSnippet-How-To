@@ -7,7 +7,7 @@
 ### Description
 An app shoud has only one reducer function. That root reducer we pass to the [`store`](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task22/README.md).<br /> 
 This tutorial will teach you how to define reducer <br /> 
-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax <br />
 ### Step 1
 Create a **reducers** folder in **client/src** folder and a **cart.js** out there<br /> 
   ![1](img/1.png) <br />
@@ -29,7 +29,8 @@ Since reducers update the state based on the received action (event) type we wil
   ![5](img/5.png) <br />
 
 ### Step 6
-Handle the 'ADD_TO_CART' action where we need to update the state by adding a new item to the cart<br /> 
+Handle the 'ADD_TO_CART' action where we need to update the state by adding a new item to the cart.<br /> 
+According to internal rules, we cannot update the existing state.  Instead, we must copy it and make changes to the copied values. In order to do this we use [**spread (...)**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) operator <br />
   ![6](img/6.png) <br />
 
 handle the 'todos/todoAdded' action.
