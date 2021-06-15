@@ -29,3 +29,4 @@
 ### Redux
 * Create Redux Store
 * Design Actions
+* Write Reducers
