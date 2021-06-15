@@ -20,4 +20,10 @@ Import type constants of your actions<br />
 Set the initial state (since the cart initially contains no items, its value will be an empty array)<br /> 
   ![3](img/3.png) <br />
 
+### Step 4
+Add a function that takes the current state and an action as arguments And for convenience, do destructuring of the action object<br /> 
+  ![4](img/4.png) <br />
+
+
+
 Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
