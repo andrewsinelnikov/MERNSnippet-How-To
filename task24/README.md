@@ -57,7 +57,7 @@ Update the [**store**](https://github.com/andrewsinelnikov/MERNSnippet-How-To/bl
   ![9](img/9.png) <br />
 
 **Congratulations! 🎉** You have the reducer ⚙️ <br />
-**TASK for you:** define action with type: REMOVE_FROM_CART
+**TASK for you:** handle action with type: REMOVE_FROM_CART
 
 Source files 📁 [here](https://github.com/andrewsinelnikov/ReactSnippet-How-To/tree/main/task24/src)
 
