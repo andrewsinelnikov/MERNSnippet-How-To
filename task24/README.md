@@ -16,4 +16,8 @@ Create a **reducers** folder in **client/src** folder and a **cart.js** out ther
 Import type constants of your actions<br /> 
   ![2](img/2.png) <br />
 
+### Step 3
+Set the initial state (since the cart initially contains no items, its value will be an empty array)<br /> 
+  ![3](img/3.png) <br />
+
 Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
