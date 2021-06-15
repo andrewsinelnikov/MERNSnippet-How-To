@@ -10,5 +10,10 @@ This tutorial will teach you how to define reducer <br />
 
 ### Step 1
 Create a **reducers** folder in **client/src** folder and a **cart.js** out there<br /> 
-  ![1](img/1.png) <br />  
+  ![1](img/1.png) <br />
+
+### Step 2
+Import type constants of your actions<br /> 
+  ![2](img/2.png) <br />
+
 Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
