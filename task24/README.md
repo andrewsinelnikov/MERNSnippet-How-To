@@ -31,7 +31,12 @@ Since reducers update the state based on the received action (event) type we wil
 ### Step 6
 Handle the 'ADD_TO_CART' action where we need to update the state by adding a new item to the cart.<br /> 
 According to internal rules, we cannot update the existing state.  Instead, we must copy it and make changes to the copied values. In order to do this we use [**spread (...)**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) operator. <br />
-The item will be added to the cart as a  value of **payload** (remember, when we [dispatched the action](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task23/README.md), in the **payload** we've passed a product object) <br />
+The item will be added to the cart as a  value of **payload** (remember, when we [dispatched the action](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task23/README.md#step-2), in the **payload** we've passed a product object) <br />
   ![6](img/6.png) <br />
+  
+Check if the item exists in the cart. First, look for this product <br />
+```Javascript
+  const existItem = state.items.find(item => item.product === payload.product);
+```
 
 handle the 'todos/todoAdded' action.
