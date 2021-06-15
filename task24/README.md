@@ -9,6 +9,6 @@ An app shoud has only one reducer function. That root reducer we pass to the [`s
 This tutorial will teach you how to define reducer <br /> 
 
 ### Step 1
-Create a **actions** folder in **client/src** folder. <br /> 
-Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
+Create a **reducers** folder in **client/src** folder and a **cart.js** out there<br /> 
   ![1](img/1.png) <br />  
+Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
