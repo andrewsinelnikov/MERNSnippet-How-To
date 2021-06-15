@@ -5,7 +5,7 @@
 > [**Reducer**](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers#writing-reducers) is a function that returns a new state based on the current `state` and [`action`](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task23/README.md) arguments<br />
 
 ### Description
-An app shoud has only one reducer function. That root reducer we pass to the [`store`](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task22/README.md).<br /> 
+An app should has only one reducer function. That root reducer we pass to the [`store`](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task22/README.md).<br /> 
 This tutorial will teach you how to define reducer <br /> 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax <br />
 ### Step 1
@@ -47,3 +47,7 @@ Then mutate a copy of the state <br />
 ```
 Our **cartReducer** function is ready <br />
   ![7](img/7.png) <br />
+
+### Step 7
+Usually Redux reducers are split apart based on the section of the state that they update. Yet an app should has only one reducer function. Therefore combine all reducers you've created. Add **index.js** into **reducers** folder where you can combine all Redux reducers that you will create <br /> 
+  ![8](img/8.png) <br />
