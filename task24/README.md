@@ -38,5 +38,11 @@ Check if the item exists in the cart. First, look for this product <br />
 ```Javascript
   const existItem = state.items.find(item => item.product === payload.product);
 ```
+Then mutate a copy of the state <br />
+```Javascript
+  if (existItem) return {
+      ...state,
+      items: state.items.map(item => item.product === existItem.product ? payload : item)
+  }
+```
 
-handle the 'todos/todoAdded' action.
