@@ -25,7 +25,7 @@ Add a function that takes the current state and an action as arguments And for c
   ![4](img/4.png) <br />
 
 ### Step 5
-Since reducers update the state based on the received action (event) type we will use `switch` operator  to handle cases of each type<br /> 
+Since reducers update the state based on the received action (event) type we will use `switch` operator  to handle cases of each type. If the reducer does not handle a specific action, then return the state unchanged<br /> 
   ![5](img/5.png) <br />
 
 Each action has a `type` field. It's a string that describes the action. For convenience, create a file **types.js** where we will place type constants for all our actions<br/>
