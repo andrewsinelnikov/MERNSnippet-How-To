@@ -45,4 +45,5 @@ Then mutate a copy of the state <br />
       items: state.items.map(item => item.product === existItem.product ? payload : item)
   }
 ```
-
+Our **cartReducer** function is ready <br />
+  ![7](img/7.png) <br />
