@@ -2,7 +2,7 @@
 ---
 ## Write Reducers
 
-> [**Actions**](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#actions) are plain JavaScript objects that describe what happens in the application <br />
+> [**Reducer**](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers#writing-reducers) is a function that returns a new state based on the current `state` and [`action`](https://github.com/andrewsinelnikov/MERNSnippet-How-To/edit/main/task24/README.md) arguments<br />
 
 ### Description
 This tutorial will teach you how to design action objects <br /> 
