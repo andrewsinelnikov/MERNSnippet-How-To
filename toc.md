@@ -30,3 +30,6 @@
 * Create Redux Store
 * Design Actions
 * Write Reducers
+
+### Javascript
+* Arrays. Methods: forEach, indexOf, includes, find, filter
