@@ -33,3 +33,6 @@
 
 ### Javascript
 * Arrays. Methods: forEach, indexOf, includes, find, filter
+
+### Node.js
+* Node.js fundamentals
