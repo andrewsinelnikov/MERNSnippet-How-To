@@ -9,7 +9,6 @@ Node.js is a cross-platform JavaScript runtime environment.
 - Install IDE (Integrated Development Environment) or texteditor. For example, [Visual Studio Code](https://code.visualstudio.com/download), [Notepad++](https://notepad-plus-plus.org/downloads/). <br />
 
 Test your installation through your **Terminal** by running the command:<br />
-`node -v`
-```Javascript
-  const existItem = state.items.find(item => item.product === payload.product);
+```
+  node -v
 ```
