@@ -20,7 +20,7 @@
 * [Make a Contact FORM (HANDLING Events)](task10/README.md)
 
 ### React. Advanced Topics
-* Contex and useContext (task25/README.md)
+* [Contex and useContext](task25/README.md)
 
 ### Node, Express, MongoDB
 * [Express Setup](task14/README.md)
