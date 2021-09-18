@@ -1,6 +1,6 @@
 # MERNSnippet: How To
 ---
-## Arrays. Methods: forEach, indexOf, includes, find, filter
+## Contex and useContext() Hook
 
 > [**Reducer**](https://redux.js.org/tutorials/fundamentals/part-3-state-actions-reducers#writing-reducers) is a function that returns a new state based on the current `state` and [`action`](https://github.com/andrewsinelnikov/MERNSnippet-How-To/blob/main/task23/README.md) arguments<br />
 
