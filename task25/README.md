@@ -2,11 +2,9 @@
 ---
 ## Contex and useContext() Hook
 
-### What is context?
+### What is Context?
 
-### forEach()
-Create a **reducers** folder in **client/src** folder and a **cart.js** out there<br /> 
-  ![1](img/1.png) <br />
+### When to Use Context?
 
 ### indexOf()
 Create a **reducers** folder in **client/src** folder and a **cart.js** out there<br /> 
