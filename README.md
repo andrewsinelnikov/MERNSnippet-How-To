@@ -19,6 +19,9 @@
 * [Make a Contact FORM with a MAP](task9/README.md)
 * [Make a Contact FORM (HANDLING Events)](task10/README.md)
 
+### React. Advanced Topics
+* Contex and useContext (task25/README.md)
+
 ### Node, Express, MongoDB
 * [Express Setup](task14/README.md)
 * [Set Up MongoDB Atlas](task15/README.md)
@@ -33,9 +36,6 @@
 * [Create Redux Store](task22/README.md)
 * [Design Actions](task23/README.md)
 * [Write Reducers](task24/README.md)
-
-### Javascript
-* [Arrays. Methods: forEach, indexOf, includes, find, filter](task25/README.md)
 
 ### Node.js
 * [Node.js fundamentals](lesson1/README.md)
