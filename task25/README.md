@@ -6,6 +6,4 @@
 
 ### When to Use Context?
 
-### indexOf()
-Create a **reducers** folder in **client/src** folder and a **cart.js** out there<br /> 
-  ![1](img/1.png) <br />
+### How to Work with Context?
